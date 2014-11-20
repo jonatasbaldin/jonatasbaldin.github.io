@@ -19,9 +19,21 @@
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+        |
+          <a class="page-link" href="https://github.com/">wiki</a>
+        | 
+        {% if site.twitter_username %}
+          <a class="page-link"href="https://twitter.com/{{ site.twitter_username }}">twitter</a>
+        {% endif %}
+        | 
+        {% if site.github_username %}
+          <a class="page-link" href="https://github.com/{{ site.github_username }}">github</a>
+        {% endif %}
+
       </div>
     </nav>
 
+    <div class="site-subtitle">adventures of a sysadmin - by jonatas</div>
   </div>
 
 </header>
