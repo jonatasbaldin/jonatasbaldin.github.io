@@ -10,7 +10,6 @@
     position: relative;
     padding-top: 10px;
     padding-bottom: 10px;
-    //background-image: url('../images/teste.png');
     background-color: #3498db;
 }
 
@@ -58,12 +57,23 @@
             margin-right: 20px;
         //}
     }
+    
+
+    ul.page-menu {
+        display: inline-flex;
+        list-style-type: none;
+        margin-bottom: 0;
+    } 
+    
+    li.page-menu {
+        border-left: 1px solid #fff;
+    }
 
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
+        background-color: #3498db;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
@@ -76,6 +86,7 @@
             line-height: 0;
             padding-top: 10px;
             text-align: center;
+            background-color: $background-color;
 
             > svg {
                 width: 18px;

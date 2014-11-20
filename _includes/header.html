@@ -14,22 +14,20 @@
       </a>
 
       <div class="trigger">
+        <ul class="page-menu">
         {% for page in site.pages %}
           {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          <li class="page-menu"><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
           {% endif %}
         {% endfor %}
-        |
-          <a class="page-link" href="https://github.com/jonatasbaldin/jonatasbaldin.github.io/wiki">wiki</a>
-        | 
+          <li class="page-menu"><a class="page-link" href="https://github.com/jonatasbaldin/jonatasbaldin.github.io/wiki">wiki</a></li>
         {% if site.twitter_username %}
-          <a class="page-link"href="https://twitter.com/{{ site.twitter_username }}">twitter</a>
+          <li class="page-menu"><a class="page-link"href="https://twitter.com/{{ site.twitter_username }}">twitter</a></li>
         {% endif %}
-        | 
         {% if site.github_username %}
-          <a class="page-link" href="https://github.com/{{ site.github_username }}">github</a>
+          <li class="page-menu"><a class="page-link" href="https://github.com/{{ site.github_username }}">github</a></li>
         {% endif %}
-
+        </ul>
       </div>
     </nav>
 
