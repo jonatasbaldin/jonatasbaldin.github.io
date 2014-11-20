@@ -8,7 +8,6 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
-    background-color: #fff;
     padding-top: 10px;
     padding-bottom: 10px;
     //background-image: url('../images/teste.png');
@@ -115,7 +114,8 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
 //    padding: $spacing-unit 0;
-    background-color: #fff;
+    //background-color: #fff;
+    background-color: #ecf0f1;
 }
 
 .footer-text {
@@ -193,7 +193,8 @@
  */
 .page-content {
     padding: $spacing-unit 0;
-    background-color: #fff;
+    //background-color: #fff;
+    background-color: #ecf0f1;
 }
 
 .page-heading {
