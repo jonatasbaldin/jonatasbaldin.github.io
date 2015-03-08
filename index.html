@@ -15,7 +15,9 @@ layout: default
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         {% if post.image %}
-          <img class="post-img" src="{{ post.image }}" /> 
+          <a href="{{ post.url }}">
+            <img class="post-img" src="{{ post.image }}" /> 
+          </a>
         {% endif %}
        
         </h2>
