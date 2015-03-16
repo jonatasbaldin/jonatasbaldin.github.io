@@ -10,14 +10,14 @@ tags:
 image: "../posts-images/install-linux-from-network.jpg"
 ---
 
-Install a new OS from scratch (physical or virtual) sucks.
+Installing a new OS from scratch (physical or virtual) sucks.
 
-From floppy drivers to virtual clones, the process always involved manual instructions and cold coffee. In the Linux scenario, PXE boot can help a little bit.
+From floppy drivers to virtual clones, the process has always involved manual instructions and cold coffee. In the Linux scenario, PXE boot can help a little bit.
 
-Basically, PXE is a protocol that allows machines to get something from network booting, usually a image.
-What it means for OS deployment is that it can pass a kernel image to the machine over the network with arguments, like local repositories and configuration files, allowing a full remote and automated installation.
+Basically, PXE is a protocol that allows machines to get something from network booting, usually an image.
+What it means for OS deployment is that it can pass a kernel image to the machine over the network with arguments, such as local repositories and configuration files, allowing a full remote and automated installation.
 
-This video has a good explanation.
+This video contains a good explanation.
 
 <iframe align="center" width="420" height="315" src="http://www.youtube.com/embed/zpzPuK6LNQ4" frameborder="0" allowfullscreen> </iframe>
 <br />
@@ -25,10 +25,10 @@ This video has a good explanation.
 
 You're gonna need a DHCP, TFTP, HTTP and NFS server. All that!
 
-* DHCP tells the machine where to find the boot image.
-* TFTP hosts the boot, kernel and initrd images. It has a menu file with all the arguments for the OS installation.
-* NFS has the CentOS installation files (ISO extracted).
-* HTTP has the Ubuntu files (ISO extracted) and a the seed files (this files contain the installation arguments, like timezone, disk layout and so on).
+* The DHCP tells the machine where to find the boot image.
+* The TFTP hosts the boot, kernel and initrd images. It has a menu file with all the arguments for the OS installation.
+* The NFS has the CentOS installation files (ISO extracted).
+* The HTTP has the Ubuntu files (ISO extracted) and a the seed files (this files contains the installation arguments, like timezone, disk layout and so on).
 
 ### DHCP ###
 In the DHCP server, you must setup two options:
@@ -89,8 +89,8 @@ The NFS server exports the installation files from CentOS. It is actually the IS
 The webserver hosts the seeds and Ubuntu installation files (again, the ISO extracted).
 
 ### Seed File ###
-Instead of manually type the parameters during the installation process, the Seed Files allow to pre configure it.
-CentOS/RHEL has different names and syntax. The firts it's called Kickstart File (KS) and the second Preseed file. Here I am going to post what I'm using in my lab, but the official documentation in the references has all the options available.
+Instead of manually typing the parameters during the installation process, the Seed Files allow you to pre configure it.
+CentOS/RHEL has different names and syntax. The firts one's called Kickstart File (KS) and the second Preseed file. Here I am going to post what I'm using in my lab, but the official documentation in the references has all the options available.
 
 **CentOS/RHEL KS Seed**
 {% highlight bash %}
@@ -211,19 +211,19 @@ d-i finish-install/reboot_in_progress note
 {% endhighlight %}
 
 ### All together now! ###
-How all of this work together?
+How does it all work together?
 
 1. The machine makes a network boot.
-2. The DHCP server delivers an IP address, TFTP address and the file to boot.
-3. The machine locates the TFTP server and download the boot image with a menu file.
+2. The DHCP server delivers an IP address, a TFTP address and the file to boot.
+3. The machine locates the TFTP server and downloads the boot image with a menu file.
 4. The menu is displayed and the user chooses one option.
 5. By the option, the kernel/initrd images are downloaded with the specific parameters.
-6. The kernel loads the seed file, which tells the installation options and where the files are.
+6. The kernel loads the seed file, which shows the installation options and where the files are.
 7. The installation begins, download the files, prepare the OS and finishes.
 8. Machine reboots. The OS is ready to be used.
 
 ### Troubleshooting ###
-Besides cool, this proccess has too many parts that can fail. If it's not working, here a list of things to look out:
+Even though it's cool, this proccess has too many parts that may fail. If it's not working, here's a list of things to look out:
 
 * Machine boot order.
 * IP address/names of every server.
@@ -237,7 +237,7 @@ Besides cool, this proccess has too many parts that can fail. If it's not workin
 * Seeds parameters.
 
 ### Files and References ###
-These files are on my GitHub (they may slight different from the post):
+These files are on my GitHub (they may be slightly different from the post):
 
 {% highlight bash %}
 git clone https://github.com/jonatasbaldin/pxeboot.git
