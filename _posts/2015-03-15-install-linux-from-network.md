@@ -12,7 +12,7 @@ image: "../posts-images/install-linux-from-network.jpg"
 
 Installing a new OS from scratch (physical or virtual) sucks.
 
-From floppy drivers to virtual clones, the process has always involved manual instructions and cold coffee. In the Linux scenario, PXE boot can help a little bit.
+From floppy drives to virtual clones, the process has always involved manual instructions and cold coffee. In the Linux scenario, PXE boot can help a little bit.
 
 Basically, PXE is a protocol that allows machines to get something from network booting, usually an image.
 What it means for OS deployment is that it can pass a kernel image to the machine over the network with arguments, such as local repositories and configuration files, allowing a full remote and automated installation.
@@ -23,17 +23,17 @@ This video contains a good explanation.
 <br />
 
 
-You're gonna need a DHCP, TFTP, HTTP and NFS server. All that!
+You're gonna need a DHCP, TFTP, HTTP and NFS server.
 
-* The DHCP tells the machine where to find the boot image.
-* The TFTP hosts the boot, kernel and initrd images. It has a menu file with all the arguments for the OS installation.
-* The NFS has the CentOS installation files (ISO extracted).
-* The HTTP has the Ubuntu files (ISO extracted) and a the seed files (this files contains the installation arguments, like timezone, disk layout and so on).
+* The DHCP tells the machine where to find the boot image;
+* The TFTP hosts the boot, kernel and initrd images. It has a menu file with all the arguments for the OS installation;
+* The NFS has the CentOS installation files (extracted ISO);
+* The HTTP has the Ubuntu files (extracted ISO) and a the seed files (this files contains the installation arguments, like timezone, disk layout and so on).
 
 ### DHCP ###
 In the DHCP server, you must setup two options:
 
-* next-server with the TFTP server IP.
+* next-server with the TFTP server IP;
 * filename with the PXE boot image.
 
 {% highlight bash %}
@@ -44,10 +44,10 @@ filename "pxelinux.0";
 ### TFTP ###
 The TFTP server hosts some files:
 
-  * pxelinux.0: the binary boot image.
-  * kernel/initrd: kernel/initial ramdisk images, downloaded to the machine over the network.
-  * menu.c32: the binary menu used to choose the OS to install.
-  * pxelinux.cfg/default: displays a menu with the location of the kernel images and arguments. Like a grub file.
+  * pxelinux.0: the binary boot image;
+  * kernel/initrd: kernel/initial ramdisk images, downloaded to the machine over the network;
+  * menu.c32: the binary menu used to choose the OS to install;
+  * pxelinux.cfg/default: displays a menu with the location of the kernel images and arguments. Like a grub file;
 {% highlight bash %}
 # best menu, no prompt for boot: and timeout 10 sec
 # the .c32 files and the pxelinux.0 are from syslinux package
@@ -60,7 +60,7 @@ MENU AUTOBOOT Starting Local System in # seconds
 
 LABEL localboot
   MENU LABEL Boot from first hard drive
-  # use chain.c32 insted of LOCALBOOL .
+  # use chain.c32 instead of LOCALBOOL .
   # Win8.1 crashed after exited PXE boot
   COM32 chain.c32
   APPEND hd0
@@ -88,8 +88,8 @@ The NFS server exports the installation files from CentOS. It is actually the IS
 ### HTTP ###
 The webserver hosts the seeds and Ubuntu installation files (again, the ISO extracted).
 
-### Seed File ###
-Instead of manually typing the parameters during the installation process, the Seed Files allow you to pre configure it.
+### Seed Files ###
+Instead of manually typing the parameters during the installation process, the seed files allow you to pre configure it.
 CentOS/RHEL has different names and syntax. The firts one's called Kickstart File (KS) and the second Preseed file. Here I am going to post what I'm using in my lab, but the official documentation in the references has all the options available.
 
 **CentOS/RHEL KS Seed**
@@ -225,15 +225,15 @@ How does it all work together?
 ### Troubleshooting ###
 Even though it's cool, this proccess has too many parts that may fail. If it's not working, here's a list of things to look out:
 
-* Machine boot order.
-* IP address/names of every server.
-* Firewall rules (TFTP, HTTP, NFS).
-* TFTP configuration and access.
-* DHCP configuration and IP lease.
-* NFS exports.
-* HTTP configuration and access.
-* Location of images, source files.
-* Menu parameters.
+* Machine boot order;
+* IP address/names of every server;
+* Firewall rules (TFTP, HTTP, NFS);
+* TFTP configuration and access;
+* DHCP configuration and IP lease;
+* NFS exports;
+* HTTP configuration and access;
+* Location of images, source files;
+* Menu parameters;
 * Seeds parameters.
 
 ### Files and References ###
