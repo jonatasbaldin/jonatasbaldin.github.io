@@ -8,6 +8,7 @@ tags:
   - "#tftp "
   - "#os "
 image: "../posts-images/install-linux-from-network.jpg"
+comments: True
 ---
 
 Installing a new OS from scratch (physical or virtual) sucks.
