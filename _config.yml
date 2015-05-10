@@ -11,6 +11,6 @@ twitter_username: vuashhhh
 github_username:  jonatasbaldin
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 
 paginate: 10
