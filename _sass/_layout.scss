@@ -311,3 +311,25 @@
     font-size: 13px;
     float: right;
 }
+
+// _includes/share-page.html
+// based on: http://codingtips.kanishkkunal.in/share-buttons-jekyll/
+.share-page {
+    text-align: center;
+    background: #3498db;
+    color: #34495e;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 1.5 * $spacing-unit 0;
+
+    a {
+        font-weight: 700;
+        color: #fff;
+        margin-left: 10px;
+
+        &:hover {
+            color: #fff;
+            text-decoration: none;
+        }
+    }
+}
