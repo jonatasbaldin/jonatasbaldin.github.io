@@ -1,13 +1,14 @@
 # Site settings
 title: deploy everyday
 email: jonatas.baldin@gmail.com
-description: livin' and sysadminin'
+description: my journey in cloud, automation and system administration
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jonatasbaldin.github.io" # the base hostname & protocol for your site
+url: "http://deployeveryday.com" # the base hostname & protocol for your site
 twitter_username: vuashhhh
 github_username:  jonatasbaldin
 
 # Build settings
 markdown: redcarpet
 
+# Pagination
 paginate: 10

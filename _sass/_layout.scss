@@ -14,7 +14,7 @@
 }
 
 .site-subtitle {
-    font-size: 13px;
+    font-size: 16px;
     float: left;
     clear: both;
 
@@ -26,7 +26,7 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 32px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0; 
@@ -137,7 +137,7 @@
 }
 
 .footer-text {
-    font-size: 12px;
+    font-size: 14px;
     margin-bottom: $spacing-unit / 2;
     margin-top: $spacing-unit / 2;
     text-align: right;
@@ -216,7 +216,7 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: 26px;
     //text-align: center;
     border-bottom: 1px solid #424242;
 
@@ -242,19 +242,19 @@
 }   
 
 .post-meta {
-    font-size: $small-font-size;
+    font-size: 16px;
     color: $grey-color;
     float: right;
 }
 
 .post-meta-post-page {
-    font-size: $small-font-size;
+    font-size: 16px;
     color: $grey-color;
 }
 
 .post-link {
     display: block;
-    font-size: 16px;
+    font-size: 20px;
     float: left;
     color: #0088cc;
     text-decoration: none;
@@ -308,7 +308,7 @@
 }
 
 .pagination {
-    font-size: 13px;
+    font-size: 16px;
     float: right;
 }
 
