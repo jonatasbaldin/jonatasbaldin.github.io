@@ -7,7 +7,6 @@ tags:
   - "#dhcp "
   - "#tftp "
   - "#os "
-image: "../posts-images/install-linux-from-network.jpg"
 share: "Tell your friends about this on"
 comments: True
 ---

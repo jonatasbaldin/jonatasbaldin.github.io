@@ -7,7 +7,6 @@ tags:
   - "#coding "
   - "#infrastructure "
   - "#cloud "
-image: "../posts-images/hey-sysadmin.png"
 share: "Make me famous on"
 comments: True
 ---

@@ -10,7 +10,6 @@ tags:
   - "#gpc "
   - "#api "
   - "#python "
-image: "../posts-images/cloud-inception-with-ravello-systems.png"
 share: "Share this, pls"
 comments: True
 ---
