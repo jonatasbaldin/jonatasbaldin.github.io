@@ -28,7 +28,7 @@ The Zabbix-way of monitoring is actually simple, and its architecture is easy to
 * **Agent**: Installed in a OS to get information about local resources and applications (storage, CPU, memory). Communicate to a Server or Proxy. See supported plataforms [here](https://www.zabbix.com/documentation/3.0/manual/concepts/agent).     
 * **Java Gateway**: Is a daemon written in Java to monitor JMX applications, available since version 2.0.     
 
-Noneless, Zabbix further can monitor through ICMP, SNMP, SSH and Telnet. You can too write custom modules to send custom data from the Agent or pull from the Server or Proxy.
+Noneless, Zabbix further can monitor through ICMP, SNMP, SSH and Telnet. You can too write custom modules to send data from the Agent or pull from the Server or Proxy.
 
 ## The Zabbix 3
 <center>
@@ -44,7 +44,7 @@ This new version maitains its architecture, but introduces brand new features an
 You can see all new features in Zabbix 3 in the [documentation page](https://www.zabbix.com/documentation/3.0/manual/introduction/whatsnew300) or the [release page](http://www.zabbix.com/rn3.0.0rc1.php).     
 In my humble opinion, I listed the biggest changes:
 
-* **Frontend Redesign**: IT LOOKS BEATFIUL! The look and feel provided by the old web frontend was like websurfing in mid 2000's. Now, the monitoring power is combined with a good and smooth web application.     
+* **Frontend Redesign**: IT LOOKS BEAUTIFUL! The look and feel provided by the old web frontend was like websurfing in mid 2000's. Now, the monitoring power is combined with a good and smooth web application.     
 * **Encyrption and Authentication**: All traffic between Server-Proxy-Agent is now encrypted out of the box. No need to VPN anymore.     
 * **Forecasting and Trend Prediction**: Zabbix should now tries to preddict resource utilization in the future, telling when values will reach its threshold.     
 * **Sharing**: Possibility to share maps, screens and slideshows.     
