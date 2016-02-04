@@ -36,7 +36,7 @@ Noneless, Zabbix further can monitor through ICMP, SNMP, SSH and Telnet. You can
 *Zabbix 3 Dashboard*
 </center>
 
-Alexei Vladishev tweeted about an possible early preview in last June, but it was possible just in 21/12/2015. Since this date, Zabbix got two alphas, two betas and yeasterday its first release candidate.
+Alexei Vladishev tweeted about an early preview in last June, but it was possible just in 21/12/2015. Since this date, Zabbix got two alphas, two betas and yesterday its first release candidate.
 
 This new version maitains its architecture, but introduces brand new features and improvements in usability and performance.
 
@@ -45,19 +45,19 @@ You can see all new features in Zabbix 3 in the [documentation page](https://www
 In my humble opinion, I listed the biggest changes:
 
 * **Frontend Redesign**: IT LOOKS BEAUTIFUL! The look and feel provided by the old web frontend was like websurfing in mid 2000's. Now, the monitoring power is combined with a good and smooth web application.     
-* **Encyrption and Authentication**: All traffic between Server-Proxy-Agent is now encrypted out of the box. No need to VPN anymore.     
-* **Forecasting and Trend Prediction**: Zabbix should now tries to preddict resource utilization in the future, telling when values will reach its threshold.     
+* **Encyrption and Authentication**: All traffic between Server-Proxy-Agent is supported (but not default) out of the box. No need to VPN anymore.     
+* **Forecasting and Trend Prediction**: Zabbix should now try to predict resource utilization in the future, telling when values will reach its threshold.     
 * **Sharing**: Possibility to share maps, screens and slideshows.     
 * **Item Scheduling**:Items can be schedule to run at a certain time and it can be defined one by one.     
-* **Performance Improvements**: Otimizations in code allowed improvements like 1/3 in the last version.     
+* **Performance Improvements**: Optimizations in code allowed improvements like 1/3 in the last version.     
 
 # Getting Zabbix 3
 Yet in release candidate, Zabbix 3 does not have installation packages, it must be installed by code compiling. You can follow the installation steps [here](https://www.zabbix.com/documentation/3.0/manual/installation).     
 Zabbix offers a virtual appliance ready to deploy and test. It has Server (MySQL or PostgreSQL) and Proxy (MySQL and SQLite3), based in an Ubuntu 14.04 image, supporting most hypervisors. You can get it in [the appliance page](https://www.zabbix.com/documentation/3.0/manual/appliance).     
-Also, I developed an Ansible Role to install and configure Zabbix Server, Proxy and Agent in an Debian-like system. You can get it in [Ansible Galaxy](https://galaxy.ansible.com/jonatasbaldin/). Let me know if you test it and want some improvements!
+Also, I developed an Ansible Role to install and configure Zabbix Server, Proxy and Agent in a Debian-like system. You can get it in [Ansible Galaxy](https://galaxy.ansible.com/jonatasbaldin/). Let me know if you test it out and want some improvements!
 
 ## Resources and Community
-Great, right? Zabbix it's an awesome tool and it is getting awesomer in each release. Wanna learn more? You can get more information in the [documentation page](https://www.zabbix.com/documentation/3.0/start).     
+Great, right? Zabbix is an awesome tool and it is getting awesomer in each release. Wanna learn more? You can get more information in the [documentation page](https://www.zabbix.com/documentation/3.0/start).     
 Nice books to read are [Mastering Zabbix (2013)](https://www.packtpub.com/monitor-large-information-technology-environment-by-using-zabbix/book), [Zabbix Cookbook (2015)](https://www.packtpub.com/networking-and-servers/zabbix-cookbook/book/) and [Zabbix Network Monitoring Essentials (2015)](http://www.packtpub.com/networking-and-servers/zabbix-network-monitoring-essentials/book).     
 
-As as [Joseph Ruscio](https://speakerdeck.com/josephruscio/its-not-in-production-unless-its-monitored) said, *It's not in production unless it's monitored*.
+As [Joseph Ruscio](https://speakerdeck.com/josephruscio/its-not-in-production-unless-its-monitored) said, *It's not in production unless it's monitored*.
