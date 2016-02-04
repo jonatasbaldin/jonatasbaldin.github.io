@@ -49,7 +49,7 @@ In my humble opinion, I listed the biggest changes:
 * **Forecasting and Trend Prediction**: Zabbix should now try to predict resource utilization in the future, telling when values will reach its threshold.     
 * **Sharing**: Possibility to share maps, screens and slideshows.     
 * **Item Scheduling**:Items can be schedule to run at a certain time and it can be defined one by one.     
-* **Performance Improvements**: Optimizations in code allowed improvements by 1/3 in the number of pooler configuration cache.     
+* **Performance Improvements**: Optimizations in code allowed improvements by 1/3 in the number of poller configuration cache.     
 
 # Getting Zabbix 3
 Yet in release candidate, Zabbix 3 does not have installation packages, it must be installed by code compiling. You can follow the installation steps [here](https://www.zabbix.com/documentation/3.0/manual/installation).     
