@@ -27,7 +27,7 @@ O alojamento da SW foi na [Fundetec/Agrotec](http://www.fundetec.org.br/), na sa
 
 A agenda de uma SW resume-se da seguinte maneira:    
 
-* Primeiro dia:  Após um breve networking, todos têm a oportunidade de apresentar suas ideias. Os participantes elegem as que mais lhe interessam e formam as equipes. A partir de então, já pode iniciar os trabalhos.
+* Primeiro dia:  Após um breve networking, todos têm a oportunidade de apresentar suas ideias. Os participantes elegem as que mais lhe interessam e formam suas equipes. A partir de então, já se pode iniciar os trabalhos.
 * Segundo dia: Work hard! Dia todo focado para validação dos problemas e prototipagem das soluções, com o auxílio dos mentores. 
 * Terceiro dia: Além de algum tempo para trabalhar, o foco do terceiro dia é o pitch! A tarefa do pitching é convencer os jurados que o problema é real, a solução foi validada, o negócio pode se sustenar e, se possível, mostrar um cliente satisfeito.
 
@@ -37,8 +37,8 @@ O contato com os mentores é muito gratificante e, sem dúvida, realista. Com g
 
 
 ## Até o caroço!
-Fui um dos participanates à propror um problema primeiro dia, e por algum motivo, ele foi escolhido. A questão era sobre o desperdício de alimentos.
-A equipe foi formada por mim, Ana Lúcia, Fernando Cavalheiro, Julio Paiva e Thiago Ortiz, com a breve participação do Isaque Geruntho. Pessoas que eu nunca havia conhecido, juntas por um interesse em tentar resolver um problema, essa é a magia da Startup Weekend.
+Fui um dos participanates a propror um problema primeiro dia, e por algum motivo, ele foi escolhido. A questão era sobre o desperdício de alimentos.
+A equipe foi formada por mim, Ana Lúcia, Fernando Cavalheiro, Julio Paiva e Thiago Ortiz, com a breve participação do Isaque Geruntho. Pessoas que eu nunca havia conhecido, reunidas pelo interesse em tentar resolver um problema, essa é a magia da Startup Weekend.
 
 Após visitas na feirinha do pequeno produtor, produtores da região, validação de ideias, conversas com mentores, discussões, planejamento e prototipagem, criamos a [Até o Caroço](http://jonatasbaldin.wix.com/ateocaroco)! Uma startup que promove o aproveitamento integral dos alimentos dos micro produtores, incentivando-os a beneficar seus produtos e conectando-os com possíveis clientes. No final das contas, treinamos um micro produtor a produzir um Relish de Milho Verde e Pimentão com espigas de milho que seriam jogadas fora, gerando educação e lucros percentualmente significativos.
 
@@ -59,14 +59,14 @@ Mesmo com a participação de somente uma edição da SW, creio que já posso da
 * Trabalhem no pitch! Estruturem com cuidado o que vão apresentar aos jurados, abordem questões como crescimento em escala, monetização e roadmap. Eleve seu espírito de vendedor e prove porquê vocês merecem sua atenção, tempo e investimento.
 
 ## Come together!
-PARTICIPEM! É a palavra com que eu fecho esse post. Startup Weekend podem lhes fornecer uma bagagem de conhecimento, experiência e know-how que nenhum outro evento em um final de semana é capaz. Conhecer pessoas incríveis, encarar desafios novos a todo momento, aprender com as falhas e sair da zona de conforto, a SW é um mini laboratório da vida real.
+PARTICIPEM! É a palavra com que eu fecho esse post. Startup Weekend lhes fornecer uma bagagem de conhecimento, experiência e know-how que nenhum outro evento em um final de semana é capaz. Conhecer pessoas incríveis, encarar desafios novos a todo momento, aprender com as falhas e sair da zona de conforto, a SW é um mini laboratório da vida real.
 
 <center>
 ![Participantes SW](/img/sw_cascavel_todos.jpg)
 </center>
 
 ## Próxima fase
-Excitante, não?! Pois então convido você a participar da primeira Startup Weekend Trinacional, em Foz do Iguaçu, entre dos dias 29/04 e 01/05. O tema será livre, traga suas ideias, seu espírito empreendedor e me encontre por lá!
+Excitante, não?! Pois então convido você a participar da primeira [Startup Weekend Trinacional](https://www.sympla.com.br/startup-weekend-foz-do-iguacu-trinacional---abril-2016__55273), em Foz do Iguaçu, entre dos dias 29/04 e 01/05. O tema será livre, traga suas ideias, seu espírito empreendedor e me encontre por lá!
 
 <center>
 [![SW Foz do Iguaçu](/img/sw_cascavel_foz.png)](https://www.sympla.com.br/startup-weekend-foz-do-iguacu-trinacional---abril-2016__55273)
