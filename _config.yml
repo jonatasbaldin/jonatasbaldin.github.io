@@ -10,8 +10,5 @@ github_username:  jonatasbaldin
 # Build settings
 markdown: redcarpet
 
-# Pagination
-paginate: 10
-
 gems:
   - jekyll-sitemap

@@ -244,6 +244,11 @@
     font-size: 16px;
     color: $grey-color;
     float: right;
+
+    /** Remove dates front page if mobile **/
+    @include media-query($on-palm) {
+        display: none;
+    }
 }
 
 .post-meta-post-page {
