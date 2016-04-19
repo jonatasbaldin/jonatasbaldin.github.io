@@ -10,7 +10,7 @@ I'm 21 years old (now I need to remeber updating this every year...). I was born
 Right now, these are the things I'm working on and trying to reach:
 
 * Working as a Datacenter Analyst, but trying to move more and more into development field. The goal is a Full Stack Engineer, because you know, [coding is a must](http://deployeveryday.com/2015/06/04/hey-sysadmin-start-coding.html).
-* Trying to talk at conferences. [FLISOL 2016](https://doity.com.br/flisolcascavel2016) will be the first one!
+* Trying to talk at conferences. ~~[FLISOL 2016](https://doity.com.br/flisolcascavel2016) will be the first one!~~ [DONE!](http://deployeveryday.com/2016/04/19/flisol2016-cascavel.html)
 * Inspired by startup field and learning how to do it. At the end of 2016, I really want to have at least one profitable business.
 * Live in plenitude. Get better at focus, study, experiences, people skills. Like Rob Nelson said, a [Full Stack Human](http://rnelson0.com/2016/01/10/a-full-stack-what/).
 
