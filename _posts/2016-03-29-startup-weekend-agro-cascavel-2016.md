@@ -6,7 +6,7 @@ tags:
   - "#startup "
   - "#startupweekend "
   - "#business "
-share: "Build, measure and learn on "
+description: "Quebrando o padrão de textos em inglês (ainda farei um blog multi linguagem), hoje lhes apresento o resumo de uma das experiências mais enriquecedoras que tive nos últimos tempos: participar da Startup Weekend Agro Cascavel 2016. Sem sombra de dúvidas, valeu cada minuto do meu final de semana!"
 comments: True
 ---
 
@@ -21,9 +21,7 @@ Como a região da cidade - Cascavel/PR - é um centro do agronegócio, a temát
 ## Construir, medir e aprender
 O alojamento da SW foi na [Fundetec/Agrotec](http://www.fundetec.org.br/), na saída de Cascavel. Com a estrutura oferecida, havia espaço para os trabalhos, refeições, pouso e um trem que passava ao nosso lado toda hora.
 
-<center>
 ![Trem da Ferroeste](/img/sw_cascavel_trem.jpg)
-</center>
 
 A agenda de uma SW resume-se da seguinte maneira:    
 
@@ -44,11 +42,8 @@ Após visitas na feirinha do pequeno produtor, produtores da região, validaçã
 
 Com a nossa proposta, garantimos o terceiro lugar do fina de semana! Todo o trabalho e esforço trouxeram sua recompensa. Creio que o delicioso Relish oferecido aos jurados também ajudou :)
 
-<center>
 ![Equipe Até o Caroço!](/img/sw_cascavel_equipe.jpg)
-
 *Esquerda pra direita: Julio, eu, Isaque, Fernando, Ana e Thiago*
-</center>
 
 ## Será que já posso dar dicas?
 Mesmo com a participação de somente uma edição da SW, creio que já posso dar algumas dicas se participarem algum dia:
@@ -61,16 +56,11 @@ Mesmo com a participação de somente uma edição da SW, creio que já posso da
 ## Come together!
 PARTICIPEM! É a palavra com que eu fecho esse post. Startup Weekend lhes fornecer uma bagagem de conhecimento, experiência e know-how que nenhum outro evento em um final de semana é capaz. Conhecer pessoas incríveis, encarar desafios novos a todo momento, aprender com as falhas e sair da zona de conforto, a SW é um mini laboratório da vida real.
 
-<center>
 ![Participantes SW](/img/sw_cascavel_todos.jpg)
-</center>
 
 ## Próxima fase
 Excitante, não?! Pois então convido você a participar da primeira [Startup Weekend Trinacional](https://www.sympla.com.br/startup-weekend-foz-do-iguacu-trinacional---abril-2016__55273), em Foz do Iguaçu, entre dos dias 29/04 e 01/05. O tema será livre, traga suas ideias, seu espírito empreendedor e me encontre por lá!
 
-<center>
 [![SW Foz do Iguaçu](/img/sw_cascavel_foz.png)](https://www.sympla.com.br/startup-weekend-foz-do-iguacu-trinacional---abril-2016__55273)
-</center>
 
-<br />
-*Fotos por: Startup Weekend Agro Cascavel 2016 e Thiago Ortiz.*
+*Fotos por: Startup Weekend Agro Cascavel 2016 e Thiago Ortiz*

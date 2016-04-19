@@ -7,7 +7,7 @@ tags:
   - "#dhcp "
   - "#tftp "
   - "#os "
-share: "Tell your friends about this on"
+description: "Installing a new OS from scratch (physical or virtual) sucks..."
 comments: True
 ---
 

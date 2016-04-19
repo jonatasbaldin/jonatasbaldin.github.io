@@ -8,15 +8,15 @@ tags:
   - "#api "
   - "#twitter "
   - "#bootstrap "
-share: "Tell your friends about it in "
+description: "Inside joke: me and some friends were drinking and hanging out one night. As it goes, we started to read one of my friend's tweets. He just posts melancholic stuff about life and his pursued lovers, it was so silly it turns out comic. To make them even funnier, we put in Google Translator to be read. The night was over, I can't remember a day that I laugh so hard. This day the idea behind Baunilha was born."
 comments: True
 ---
 
 Inside joke: me and some friends were drinking and hanging out one night. As it goes, we started to read one of my friend's tweets. He just posts melancholic stuff about life and his pursued lovers, it was so silly it turns out comic. To make them even funnier, we put in Google Translator to be read. The night was over, I can't remember a day that I laugh so hard. This day the idea behind [Baunilha](http://baunilha.deployeveryday.com) was born.
 
-<center>
+
 <a href="http://baunilha.deployeveryday.com">![Bunilha Index Page](/img/baunilha_index.png)</a>
-</center>
+
 
 ## Useless, but a chance to learn
 I wanted to learn how to develop a full stack web application, from the operating system to the presentation layer, so I took that idea and transformed it in code. That's what Baunilha is all about, an **app that reads someone tweets**. Even more, it should read in PT-BR (I'm from Brazil, the inside joke makes more sense in Portuguese) and EN for the rest of the world.     

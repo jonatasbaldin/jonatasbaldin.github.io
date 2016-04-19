@@ -1,14 +1,19 @@
-# Site settings
-title: deploy everyday
-email: jonatas.baldin@gmail.com
-description: my journey in cloud, automation and system administration
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://deployeveryday.com" # the base hostname & protocol for your site
-twitter_username: vuashhhh
-github_username:  jonatasbaldin
+# Setup
+title:               Deploy Everyday
+tagline:             'my journey in cloud, automation and system administration'
+description:         "Hi, you've just entered in my cool vortex. Here I talk about automation, cloud, system administration and develepoment. I sometimes have a life, so you may read about it. You can yell at me clicking in the icons below." 
+url:                 http://deployeveryday.com
+baseurl:             ''
+paginate:            10
 
-# Build settings
-markdown: redcarpet
+# About/contact
+author:
+  name:              Jonatas Baldin
+  url:               https://twitter.com/vuashhhh
+  twitter:           https://twitter.com/vuashhhh
+  twitter_username:  vuashhhh
+  github:            https://github.com/jonatasbaldin
+  linkedin:          https://br.linkedin.com/in/jonatasbaldin
+  email:             jonatas.baldin@gmail.com
 
-gems:
-  - jekyll-sitemap
+gems: [jekyll-paginate, jekyll-sitemap]

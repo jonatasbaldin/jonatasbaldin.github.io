@@ -6,7 +6,7 @@ tags:
   - "#squid "
   - "#proxy "
   - "#linux "
-share: "Drop this on "
+description: "One of my company's client was running a Squid Proxy/Cache for two different branches with two Multiple Squid Instances bound to two different ports. Everythin was running smoothly, until he opened the following request: I need to track down how much bandwith each branch office is using, if possible, by the proxy internal IP address that must be inside the branch's VLAN. To solve this problem, I now had to run not just in different ports, but also in different IPs going out different gateways. That should be fun, and ineed was."
 comments: True
 ---
 

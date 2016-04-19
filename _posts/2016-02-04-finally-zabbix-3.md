@@ -6,7 +6,7 @@ tags:
   - "#system "
   - "#zabbix "
   - "#monitoring "
-share: "Spread the word on"
+description: "As defined by Wikipedia, Zabbix is an enterprise open source monitoring solution for networks and applications, created by Alexei Vladishev. It is designed to monitor and track the status of various network services, servers, and other network hardware. It is released under GPL and backed by a company named Zabbix."
 comments: True
 ---
 
@@ -15,10 +15,10 @@ As defined by [Wikipedia](https://en.wikipedia.org/wiki/Zabbix), Zabbix is an en
 The first stable version came out in March 2004, Zabbix 1.0. Since then, a lot of improvements has been made and, in January 2016, the first [Zabbix 3 beta version](http://www.zabbix.com/rn3.0.0beta1.php) was released to the public. 
 
 ## Zabbix Architecture
-<center>
+
 ![Zabbix Architecture](/img/zabbix3_arch.png)     
 *Zabbix Architecture*
-</center>
+
 
 The Zabbix-way of monitoring is actually simple, and its architecture is easy to understand, composed by:
 
@@ -31,10 +31,10 @@ The Zabbix-way of monitoring is actually simple, and its architecture is easy to
 Noneless, Zabbix further can monitor through ICMP, SNMP, SSH and Telnet. You can too write custom modules to send data from the Agent or pull from the Server or Proxy.
 
 ## The Zabbix 3
-<center>
+
 ![Zabbix Dashboard](/img/zabbix3_dashboard.png)     
 *Zabbix 3 Dashboard*
-</center>
+
 
 Alexei Vladishev tweeted about an early preview in last June, but it was possible just in 21/12/2015. Since this date, Zabbix got two alphas, two betas and yesterday its first release candidate.
 

@@ -7,7 +7,7 @@ tags:
   - "#api "
   - "#ansible "
   - "#deploy "
-share: "Deploy this post on "
+description: "Nice way to deploy Baunilha, using Ansible."
 comments: True
 ---
 
