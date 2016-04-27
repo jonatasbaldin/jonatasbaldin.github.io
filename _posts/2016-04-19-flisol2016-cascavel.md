@@ -2,7 +2,7 @@
 layout: post
 title: "FLISOL 2016 Cascavel"
 date: 2016-04-19 09:30:00
-tags:
+tags: ['flisol', 'ansible', 'talk', 'opensource', 'linux']
 description: "FLISOL, Festival Latino-Americano de Instalação de Software Livre, trás ao público um evento com palestras, workshops e exposições do que há de melhor e mais interessante no mundo do código aberto, e em Cascavel/PR não foi diferente. No dia 16 de Abril de 2016, a cidade sediou a sua terceira edição com 17 palestas, 3 oficinas e 350 participantes. E advinha? Pude realizar meu primeiro talk!"
 comments: True
 ---

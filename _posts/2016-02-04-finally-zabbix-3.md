@@ -2,10 +2,7 @@
 layout: post
 title: "Finally, Zabbix 3"
 date: 2016-02-04 15:00:00
-tags:
-  - "#system "
-  - "#zabbix "
-  - "#monitoring "
+tags: ['system', 'zabbix', 'monitoring']
 description: "As defined by Wikipedia, Zabbix is an enterprise open source monitoring solution for networks and applications, created by Alexei Vladishev. It is designed to monitor and track the status of various network services, servers, and other network hardware. It is released under GPL and backed by a company named Zabbix."
 comments: True
 ---

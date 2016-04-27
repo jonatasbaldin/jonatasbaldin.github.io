@@ -2,12 +2,7 @@
 layout: post
 title: "Baunilha, my first full stack app"
 date: 2016-03-04 11:00:00
-tags:
-  - "#python "
-  - "#flask "
-  - "#api "
-  - "#twitter "
-  - "#bootstrap "
+tags: ['python', 'flask', 'api', 'twitter', 'bootstrap']
 description: "Inside joke: me and some friends were drinking and hanging out one night. As it goes, we started to read one of my friend's tweets. He just posts melancholic stuff about life and his pursued lovers, it was so silly it turns out comic. To make them even funnier, we put in Google Translator to be read. The night was over, I can't remember a day that I laugh so hard. This day the idea behind Baunilha was born."
 comments: True
 ---

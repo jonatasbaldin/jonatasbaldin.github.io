@@ -2,11 +2,7 @@
 layout: post
 title: "Deploying Baunilha with Ansible"
 date: 2016-03-14 09:00:00
-tags:
-  - "#python "
-  - "#api "
-  - "#ansible "
-  - "#deploy "
+tags: ['python', 'api', 'ansible', 'deploy']
 description: "Nice way to deploy Baunilha, using Ansible."
 comments: True
 ---
