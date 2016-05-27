@@ -5,7 +5,7 @@ title: About
 
 Hi there! I'm **Jonatas Baldin** and this is my personal space to share what I'm doing and what I want to do.
 
-I'm 21 years old (now I need to remeber updating this every year...). I was born in Brazil and live here since. I chose to write primally in english beacuse I can reach a lot more than Brazilian Portuguese. Thus, if you work in the technology field and don't understande english, I highly recommend to start studiyng this right now. But sometimes I write in portuguese too, primarily about events that happen in my country.
+I'm 21 years old (now I need to remember updating this every year...). I was born in Brazil and live here since. I chose to write primarily in english because I can reach a lot more than Brazilian Portuguese. Thus, if you work in the technology field and don't understand english, I highly recommend to start studying this right now. But sometimes I write in portuguese too, primarily about events that happen in my country.
 
 Right now, these are the things I'm working on and trying to reach:
 
