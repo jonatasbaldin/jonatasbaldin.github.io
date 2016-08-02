@@ -579,3 +579,9 @@ a.pagination-item:hover {
     margin: 0 auto;
     display: block;
 }
+
+.center-text {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
