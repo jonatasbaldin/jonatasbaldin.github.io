@@ -31,7 +31,7 @@ And this is my tool belt for now. Not hard, but indeed some fun work.
 The challenge was set. Insert a Twitter username, retrive its tweets and, when clicked, read it!    
 I'll open source the code soon, just making some adjustments and developing an automated deploy.
 
-## Hey Twitter, can you provide me [@vuashhhh](https://twitter.com) tweets?
+## Hey Twitter, can you provide me [@jonatasbaldin](https://twitter.com) tweets?
 First of all, I need to get the tweets, enter python-twitter. Haply reading its docs, I discovered that the entire Twitter's API (including the **public** part) needed a combination of API keys and secrets to allow access. Those can be generated at [Twitter Application Management](https://apps.twitter.com/) under my personal account.     
 With the keys in hand, I wrote a little wrapper around python-twitter to get just what I need: username, tweets and its ID and a profile picture.
 
