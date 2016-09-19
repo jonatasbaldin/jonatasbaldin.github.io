@@ -1,7 +1,7 @@
 # Setup
 title:               Deploy Everyday
-tagline:             'my journey in cloud, automation and system administration'
-description:         "Hi, you've just entered in my cool vortex. Here I talk about automation, cloud, system administration and develepoment. I sometimes have a life, so you may read about it. You can yell at me clicking in the icons below." 
+tagline:             'my journey on the Internets (mainly dev and ops stuff)'
+description:         "Hi, you've just entered in my cool vortex. Here I talk about my computer adventures. I sometimes have a life, so you may read about it. You can yell at me clicking in the icons below." 
 url:                 http://deployeveryday.com
 baseurl:             ''
 paginate:            10
