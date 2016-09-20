@@ -185,7 +185,11 @@ pre code {
   border-radius: 4px;
 }
 .highlight pre {
+  display: block; 
   margin-bottom: 0;
+  white-space: pre;
+  overflow-x: auto;
+  word-wrap: normal; 
 }
 
 /* Gist via GitHub Pages */
