@@ -16,4 +16,4 @@ author:
   linkedin:          https://br.linkedin.com/in/jonatasbaldin
   email:             jonatas.baldin@gmail.com
 
-gems: [jekyll-paginate, jekyll-sitemap, jekyll-gist]
+gems: [jekyll-paginate, jekyll-sitemap, jekyll-gist, jemoji]

@@ -585,3 +585,11 @@ a.pagination-item:hover {
     margin: 0 auto;
     display: block;
 }
+
+/* Make emojis inline :cool: */
+img.emoji {
+    display: inline;
+    height: 1em;
+    width: 1em;
+    margin-bottom: 0.25em;
+}
