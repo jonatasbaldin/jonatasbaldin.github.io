@@ -11,6 +11,7 @@ Docker is awesome, but running containers by hand is awful. You can improve your
 
 # You container is (almost) never alone
 Rarely you run your application with one service, at least you generally need a Web[language,framework] and a database. There you go, two services. And this can be done in a large variety of ways:
+
 - Installing everything locally (bad, don't!)
 - Using virtual environments if your stack allows (cool, but read on)
 - Virtual machines, generally backed up with a service like Vagrant (nice, but maybe overkill)
