@@ -14,23 +14,23 @@ Instead of throwing code snippets over these pages, I'll use [this GitHub reposi
 
 # The foundation
 To start, clone the repository and run the command:
-```bash
+{% highlight bash %}
 git clone https://github.com/jonatasbaldin/composing-docker-environments.git
 cd composing-docker-environments
 docker-compose up
-```
+{% endhighlight %}
 
 If everything goes well, you should be able to see the Django Hello World page at `http://localhost:8000`. Otherwise, yell at me in the comments or create a issue in GitHub.
 
 Oh, this is the versions I'm running right now:
-```bash
+{% highlight bash %}
 # docker -v
 Docker version 1.12.1, build 6f9534c
 # docker-compose -v
 docker-compose version 1.8.0, build f3628c7
 # OS -v
 Mac OS X Yosemite 10.10.5
-```
+{% endhighlight %}
 
 # To the content!
 So, *services*, *images* and *builds*. What is these things?  
@@ -41,7 +41,7 @@ On our current environment, we got two services: `db` and `web`, the first being
 The first is easy! `db` is a Postgres image pulled from [Docker Hub](https://hub.docker.com/_/postgres/) and executed without any customization. It just pulls and run. In the image documentation you can read about how it is built and various ways configure it.
 
 On the other hand, `web` is a *build* created with a Dockerfile, that is what this parameter means. The accepted parameters can be just a directory with a Dockerfile, a `context` with a alternative file and even a mix of `build` and `image`, where Compose will create a build named by the image parameter value. See below:
-```bash
+{% highlight yaml %}
 # Builds an image from web/Dockerfile
 web:
   build: ./web 
@@ -56,7 +56,7 @@ web:
 web:
   build: ./web
   imagem: myweb:v1
-```
+{% endhighlight %}
 
 The Dockerfile is exactly the same from Docker. You can view the one I'm using [here](https://github.com/jonatasbaldin/composing-docker-environments/blob/master/web/Dockerfile).
 
