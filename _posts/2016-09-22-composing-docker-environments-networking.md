@@ -10,7 +10,7 @@ comments: True
 Web framework? Got it! Database? Yep! Today we are going to see how can we link both services through the Docker network. It can be a pretty simple and quick configuration, but it also exposes a mature surface to be explored. :whale:
 
 # Previously on Deploy Everyday
-If you are arriving here for the first time, make sure you also read the [introduction on Docker Compose]() and what [services, images and builds]() mean. It's a quick and (I hope) fun post :smile:
+If you are arriving here for the first time, make sure you also read the [introduction on Docker Compose](http://deployeveryday.com/2016/09/20/composing-docker-environments.html) and what [services, images and builds](http://deployeveryday.com/2016/09/21/composing-docker-environments-services-images-builds.html) mean. It's a quick and (I hope) fun post :smile:
 
 Getting started: jump to the following Git tag:
 {% highlight bash %}
@@ -46,7 +46,7 @@ After a couple seconds, open in your browser the address `http://localhost:8000`
 # docker-compose.yml barely changed!
 Yep, I know. If you see the diff, the only parameters changed in our `docker-compose.yml` file is:
 - An `environment` variable to define our database password.
-- Change the `web` command to avoid race condition (what was done here is a poor implementation, see [this article]() for a best practice!).
+- Change the `web` command to avoid race condition (what was done here is a poor implementation, see [this article](http://deployeveryday.com/2016/09/12/race-condition-docker-compose.html) for a best practice!).
 - Tell out loud that `web` `depends_on` `db`. This does not provide any network configuration, just says that `web` will not run without a `db`.
 
 The magic is: Docker Compose creates a default network out of the box, named by the project name (based on the project's directory). To see all networks and their details, use these commands:
