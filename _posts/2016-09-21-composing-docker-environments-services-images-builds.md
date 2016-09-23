@@ -13,9 +13,15 @@ Today we continue talking about Docker Compose, following the [last post](http:/
 Instead of throwing code snippets over these pages, I'll use [this GitHub repository](https://github.com/jonatasbaldin/composing-docker-environments) to store and organize our journey. This is not something planned, neither do I have a draft, but I'll try to put everything together commit by commit. If you have any tip during the read, drop a comment and I'll be glad to discuss it.
 
 # The foundation
-To start, clone the repository and run the command:
+To start, clone the repository, checks out the right tag and run docker-compose:
 {% highlight bash %}
+# Clone the repository
 git clone https://github.com/jonatasbaldin/composing-docker-environments.git
+
+# Right tag!
+git checkout tags/v0.1
+
+# Goes into the directory and runs docker-compose
 cd composing-docker-environments
 docker-compose up
 {% endhighlight %}
