@@ -30,7 +30,7 @@ In this post, we are going to connect Django web framework with a Postgres datab
 
 To get our database powered application up and running, type this at the repository root:
 {% highlight bash %}
-# Get our containers up in background
+# Get our containers up in background and wait 10 seconds
 $ docker-compose up -d
 
 # And configure Django, don't bother with this
