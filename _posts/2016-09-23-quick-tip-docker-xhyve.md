@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quick Tip: Accessing Docker xvhyve machine!"
+title: "Quick Tip: Accessing Docker xhyve machine!"
 date: 2016-09-23 21:30:00
 tags: ['docker', 'docker-compose', 'container', 'quicktip', 'xhyve']
 description: "Docker is ~almost~ native on Mac OS X. In its later version, 1.12, the team implemented Docker Machine with xhyve by default. But how can I access it? :whale:"
@@ -53,4 +53,4 @@ Well, this is it! You can run some Unix commands like `ifconfig`, `netstat` and 
 
 ---
 
-I hope you enjoy this quick posts. They will be available at a random rate, specially when I drink to many beers :grin: If you have any doubts, drop a comment!
+I hope you enjoy this quick posts. They will be available at a random rate, specially when I drink too many beers :grin: If you have any doubts, drop a comment!
