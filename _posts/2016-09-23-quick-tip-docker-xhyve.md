@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quick Tip: Accessing Docker xvhyve machine!"
-date: 2016-09-22 21:30:00
+date: 2016-09-23 21:30:00
 tags: ['docker', 'docker-compose', 'container', 'quicktip', 'xhyve']
 description: "Docker is ~almost~ native on Mac OS X. In its later version, 1.12, the team implemented Docker Machine with xhyve by default. But how can I access it?"
 comments: True
