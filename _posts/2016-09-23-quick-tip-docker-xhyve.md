@@ -3,7 +3,7 @@ layout: post
 title: "Quick Tip: Accessing Docker xvhyve machine!"
 date: 2016-09-23 21:30:00
 tags: ['docker', 'docker-compose', 'container', 'quicktip', 'xhyve']
-description: "Docker is ~almost~ native on Mac OS X. In its later version, 1.12, the team implemented Docker Machine with xhyve by default. But how can I access it?"
+description: "Docker is ~almost~ native on Mac OS X. In its later version, 1.12, the team implemented Docker Machine with xhyve by default. But how can I access it? :whale:"
 comments: True
 ---
 
@@ -17,7 +17,7 @@ BUT, Docker 1.12 finally brings [xhyve](https://github.com/mist64/xhyve) support
 
 This means *almost* native support. We still use a Linux distribution behind the scenes, but it is way more transparent to the final user.
 
-So, here's come the Quick Tip: How can I access this xhyve virtualized machine? :thinking_face: GUI? *Nah*. SSH? *Nop*. Telnet? *Huh, nop*.
+So, here's come the Quick Tip: How can I access this xhyve virtualized machine? GUI? *Nah*. SSH? *Nop*. Telnet? *Huh, nop*.
 
 From now on, by default, you use a tool called [screen](https://www.gnu.org/software/screen/). It does a lot of things, but also connects to **tty**, and can be used to connect on the Linux machine. One issue tough, when I use screen inside [tmux](https://tmux.github.io/), I got a lot of gibberish. So you might need to leave the multiplexer if you are using one.
 
