@@ -86,7 +86,7 @@ A benefit of named volumes is backup, now that our data path has a proper name (
 *I hate my data, delete it!* To get rid of our counter (or any other named volume) you need to stop the containers and remove the volume:
 {% highlight bash %}
 # Destroying the container
-$ docker-compose rm
+$ docker-compose rm db
 # Deleting the volume
 $ docker volume rm composingdockerenvironments_data-postgres
 {% endhighlight %}
