@@ -52,7 +52,7 @@ $ git checkout tags/v0.3
 # Remove our last mounted volume
 $ docker-compose rm db
 # Get our stack running 
-$ docker-compose run -d
+$ docker-compose up -d
 # After a few seconds, run Django migration again
 $ docker-compose run web python manage.py migrate
 {% endhighlight %}
