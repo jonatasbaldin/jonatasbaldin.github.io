@@ -49,8 +49,9 @@ $ cd /path/to/the/repository
 # Get the new code
 $ git pull
 $ git checkout tags/v0.3
-# Remove our last mounted volume
-$ docker-compose rm db
+# Delete the containers
+$ docker-compose down
+$ docker-compose rm 
 # Get our stack running 
 $ docker-compose up -d
 # After a few seconds, run Django migration again
