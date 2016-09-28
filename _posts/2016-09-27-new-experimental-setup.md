@@ -11,7 +11,7 @@ Today I will take a break on containers and talk a little bit about how do I get
 
 Before I forget, now I'm a Python developer, so you may see some fine tuning for it.
 
-# I cant' drop vim, I just can't.
+# I can't drop vim, I just can't.
 ![neovim](/img/setup_neovim.png){: .center-image }
 
 Hey, I'm a developer now, let's see what these IDEs can give me.
