@@ -16,7 +16,7 @@ Before I forget, now I'm a Python developer, so you may see some fine tuning for
 
 Hey, I'm a developer now, let's see what these IDEs can give me.
 
-Lot of buttons. Lot of borders. Lot of menus. Lot of stuff.
+Lots of buttons. Lots of borders. Lots of menus. Lots of stuff.
 
 Unfortunately (or fortunately) I'm not ready for an IDE. [vim](http://www.vim.org/) has been my text world since I started with Linux and it looks like it will be for a long time. I'm used to the navigation, motions, commands. They are burned into my mind! My fingers only know how to reach stuff by hjkl.    
 
