@@ -39,7 +39,7 @@ ERROR: for composingdockerenvironments_web_4  Cannot start service web: driver f
 ERROR: for composingdockerenvironments_web_5  Cannot start service web: driver failed programming external connectivity on endpoint composingdockerenvironments_web_5 (bd2d6aa89d7126cf9ce4b27619af1f1f4360f16bf468830abc5fb7f343b57238): Bind for 0.0.0.0:8000 failed: port is already allocated
 {% endhighlight %}
 
-*Oops!* What happened? We've tried to create five `web` containers and all of them bound to the 8000 port, which isn't supported on the host. Scaling has its perks :cry:
+*Oops!* What happened? We've tried to create five `web` containers and all of them bound to the 8000 port, which isn't supported on the host. Scaling has its issues :cry:
 
 # Reverse proxy to the rescue!
 We need one more piece to make it works, a *reverse proxy*. What it does is listen to one port - generally 80 - and *forward* all HTTP requests to a running web server, such as Django's built in. The most used out there is [HAProxy](http://www.haproxy.org/), [AWS ELB](https://aws.amazon.com/elasticloadbalancing/) and [NGINX](https://www.nginx.com/resources/admin-guide/reverse-proxy/). Techniques and features may vary between proxies, make sure to read the documentation carefully. Today the chosen one is NGINX.
