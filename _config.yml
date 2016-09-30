@@ -6,6 +6,10 @@ url:                 http://deployeveryday.com
 baseurl:             ''
 paginate:            10
 
+# SEO
+twitter:
+  username: jonatasbaldin
+
 # About/contact
 author:
   name:              Jonatas Baldin
@@ -16,4 +20,4 @@ author:
   linkedin:          https://br.linkedin.com/in/jonatasbaldin
   email:             jonatas.baldin@gmail.com
 
-gems: [jekyll-paginate, jekyll-sitemap, jekyll-gist, jemoji]
+gems: [jekyll-paginate, jekyll-sitemap, jekyll-gist, jemoji, jekyll-seo-tag]
