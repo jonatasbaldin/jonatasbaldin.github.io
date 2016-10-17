@@ -7,6 +7,13 @@ description: "Docker is awesome, but running containers by hand is awful. You ca
 comments: True
 ---
 
+*This is a blog series! You can find the other posts at the links below*:
+
+- [Composing Docker Environments: Services, Images and Builds](http://deployeveryday.com/2016/09/21/composing-docker-environments-services-images-builds.html)
+- [Composing Docker Environments: Networking](http://deployeveryday.com/2016/09/22/composing-docker-environments-networking.html)
+- [Composing Docker Environments: Storage](http://deployeveryday.com/2016/09/26/composing-docker-environments-storage.html)
+- [Composing Docker Environments: Scaling I](http://deployeveryday.com/2016/09/28/composing-docker-environments-scale.html)
+
 Docker is awesome, but running containers by hand is awful. You can improve your environment using docker-compose to create multi-container applications.
 
 # You container is (almost) never alone
