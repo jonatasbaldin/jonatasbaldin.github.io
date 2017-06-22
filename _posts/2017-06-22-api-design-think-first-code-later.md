@@ -22,7 +22,7 @@ Another concept that's widely used and discussed by web developers is the one of
 # One JSON is worth a thousand words
 Let’s see an example of an API response:
 
-{% highlight %}
+```
 {
   "data": [
     {
@@ -32,7 +32,7 @@ Let’s see an example of an API response:
     },
   ]
 }
-{% endhighlight %}
+```
 
 This snippet of data, called [JSON,](https://www.w3schools.com/js/js_json_intro.asp) is an example of how a smartphone sees a Facebook status message, gathered from the [Facebook API](https://developers.facebook.com/docs/graph-api). Pretty neat, right?
 
@@ -60,7 +60,7 @@ Before diving into API code, let’s get a glimpse of the Hypertext Transfer Pro
 
 Let's see an HTTP request/response example:
 
-{% highlight %}
+```
 Client request:
 GET /users/1 HTTP/1.1
 Host: www.example.org/users
@@ -76,7 +76,7 @@ Date: Sun, 19 Feb 2017 00:43:51 GMT
   "fast_name": "Baldin",
   "role": "Caker"
 }
-{% endhighlight %}
+```
 
 # Good API design demands good specifications
 There are some specifications to help you out when designing your API. The most used ones are **Swagger** with pure JSON, **RAML** with YAML notation and **API Blueprint** backed by the markdown syntax. I felt in love with the latter: even though it is the new cool kid in the neighborhood, it’s already mature enough and delightful to work with. That’s the one I’ll be covering here.
@@ -101,7 +101,7 @@ Besides that, there’s [Apiary](https://apiary.io/). It’s a collaborative pla
 
 Here’s a Blueprint code sample:
 
-{% highlight %}
+```
 FORMAT: 1A
 HOST: http://cakes.ckl.io/
 
@@ -124,7 +124,7 @@ Cakes is an API used to store and consume information about the most loved Cakes
 + id: `1` (string, required) - The unique ID of a Cake.
 + name: `Cheesecake` (string, required) - The name of a Cake.
 + rating: `5/5` (string, optional) - The rating of a Cake.
-{% endhighlight %}
+```
 
 If you access the [project](http://docs.cheesecakelabs.apiary.io/) above, you’ll see a prettily-rendered page. Now the awesome part: a mock server is automatically created for every project – look at [this](http://private-b604b-cheesecakelabs.apiary-mock.com/cakes/)! See the magic? No code was needed to make it work. Anyone with basic knowledge of HTTP and Blueprint can create a mock API and get feedback from customers.
 
@@ -180,14 +180,14 @@ If you want to take just one thing from this article, make sure it’s this one:
 ## Describe your errors with clarity
 When something fails, inform the client about what happened and how it can recover. Here’s a nice way to do it:
 
-{% highlight %}
+```
 {
   "error": {
     "type": "Authentication Error",
     "details": "Authentication could not be established with the given username and password",
    }
 }
-{% highlight %}
+```
 
 Everyone understands that.
 
@@ -221,5 +221,5 @@ If more tips could fit a book, talking about all aspects of API Design would fit
 * [HATEOAS](https://spring.io/understanding/HATEOAS) - one of the constraints of RESTful APIs.
 * [JSON API](http://jsonapi.org/) - a specification for build APIs in JSON.
 
-#Wrapping up
+# Wrapping up
 API Design matters. It tends to stop people from just hacking things together to take a step back and see the bigger picture. Here at Cheesecake Labs we do our best to develop APIs following the best practices. We know that it seems time-consuming, but in the long run it pays off!
