@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "API Design: Think First, Code Later"
-date: 2017-06-22 19:00:00
+date: 2017-06-22 18:00:00
 tags: ['api', 'design', 'http', 'json', 'api blueprint', 'html', 'restfulapi', 'apiary']
 description: "As a software developer, I know how hard it is to contain the urge to start coding as soon as we can. After the first sprint planning, our fingers – uncontrolled, hungry creatures – want to start smashing the keyboard, translating our ideas into code fastly and furiously.
 
