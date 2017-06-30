@@ -18,3 +18,4 @@ Here are the talks I made and events I attended to.
 * Python Sudeste 2017, Rio de Janeiro, BR
 * Code in the Dark Florianópolis v2, Florianópolis, BR - I organized it!
 * UXConfBR 2017, Porto Alegre, BR - Yes, I also like design!
+* [Caipyra 2017, Ribeirão Preto, BR - I talked about Serverless!](http://deployeveryday.com/2017/06/29/caipyra-2017.html)
