@@ -4,6 +4,8 @@ title: "What is Serverless all about?"
 date: 2017-07-02 12:00:00
 tags: []
 description: "Serverless. The new hype buzzword is taking over the development universe, promising big savings in infrastructure for applications and less deployment headaches to developers. In an agile world, shipping scalable software with budget constraints has become a big puzzle: one that Serverless may solve."
+image: "/img/lambda_symbol.png"
+logo: "/public/favicon.png"
 comments: True
 ---
 
