@@ -38,14 +38,14 @@ Latinoware 2014 - Foz do Iguaçu, BR
 [Startup Weekend Agro 2016 - Cascavel, BR](http://deployeveryday.com/2016/03/29/startup-weekend-agro-cascavel-2016.html)  
 [FLISOL 2016 - Cascavel, BR](http://deployeveryday.com/2016/04/19/flisol2016-cascavel.html)  
 [SC Dev Summit - Joinville, BR](http://deployeveryday.com/2016/05/29/sc-dev-summit-16.html)  
-Code in the Dark Floripa, Florianópolis, BR  
+Code in the Dark Floripa - Florianópolis, BR  
 Python Brasil 12 - Florianópolis, BR  
-GopherCon Brasil 2016, Florianópolis, BR  
-Pyzza Floripa, Florinaópolis, BR - A Python Meetup with lots of Pizza  
-The Developers Conference, Florianópolis, BR  
-Python Sudeste 2017, Rio de Janeiro, BR  
-Code in the Dark Floripa v2, Florianópolis, BR  
-UXConfBR 2017, Porto Alegre, BR  
-[Caipyra 2017, Ribeirão Preto, BR](http://deployeveryday.com/2017/06/29/caipyra-2017.html)  
-BrazilJS 2017, Porto Alegre, BR  
-Python Sul 2018, Porto Alegre, BR  
+GopherCon Brasil 2016 - Florianópolis, BR  
+Pyzza Floripa - Florinaópolis, BR - A Python Meetup with lots of Pizza  
+The Developers Conference - Florianópolis, BR  
+Python Sudeste 2017 - Rio de Janeiro, BR  
+Code in the Dark Floripa v2 - Florianópolis, BR  
+UXConfBR 2017 - Porto Alegre, BR  
+[Caipyra 2017 - Ribeirão Preto, BR](http://deployeveryday.com/2017/06/29/caipyra-2017.html)  
+BrazilJS 2017 - Porto Alegre, BR  
+Python Sul 2018 - Porto Alegre, BR  
