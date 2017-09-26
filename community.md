@@ -1,21 +1,41 @@
 ---
 layout: page
-title: Talks and Events
+title:
 ---
 
-Here are the talks I made and events I attended to.
+# Talks and Workshops
+[Ansible: Infraestrutura como Código - FLISOL Cascavel 2016](https://speakerdeck.com/jonatasbaldin/ansible-infraestrutura-como-codigo)  
+[Ansible: Infraestrutura como Código - FISL 17](https://www.youtube.com/watch?v=i79uTvUiOyg)  
+[API Design: Think Fist, Code Later - Pyzza Floripa](https://speakerdeck.com/jonatasbaldin/ansible-infraestrutura-como-codigo)  
+[Em terra de Serverless, quem usa Zappa é rei! - Caipyra 2017](https://speakerdeck.com/jonatasbaldin/in-the-land-of-serverless-who-uses-zappa-is-king)  
+[Django Girls (Mentor) - Caipyra 2017](https://djangogirls.org/ribeiraopreto/)  
+[Django Channeled - Python Sul 2017](https://speakerdeck.com/jonatasbaldin/django-channeled)  
+[DRF vs Graphene - Python Floripa 2017](https://www.youtube.com/watch?v=WXRmRcIVzqE)  
+[Serverless & DevOps - DevOps Floripa 2017](https://speakerdeck.com/jonatasbaldin/serverless-and-devops)  
 
-* Latinoware 2012 - Foz do Iguaçu, BR
-* Latinoware 2014 - Foz do Iguaçu, BR
-* [Startup Weekend Agro 2016 - Cascavel, BR](http://deployeveryday.com/2016/03/29/startup-weekend-agro-cascavel-2016.html)
-* [FLISOL 2016 - Cascavel, BR - I talked about Ansible!](http://deployeveryday.com/2016/04/19/flisol2016-cascavel.html)
-* [SC Dev Summit - Joinville, BR](http://deployeveryday.com/2016/05/29/sc-dev-summit-16.html)
-* Code in the Dark Florianópolis, Florianópolis, BR - I organized it!
-* Python Brasil 12 - Florianópolis, BR - I helped organize!
-* GopherCon Brasil 2016, Florianópolis, BR
-* Pyzza Floripa, Florinaópolis, BR - A Python meetup with lots of Pizza, and I talked about [API Design](https://speakerdeck.com/jonatasbaldin/api-design-think-first-code-later)!
-* The Developers Conference, Florianópolis, BR - Coordinator of the Python track!
-* Python Sudeste 2017, Rio de Janeiro, BR
-* Code in the Dark Florianópolis v2, Florianópolis, BR - I organized it!
-* UXConfBR 2017, Porto Alegre, BR - Yes, I also like design!
-* [Caipyra 2017, Ribeirão Preto, BR - I talked about Serverless!](http://deployeveryday.com/2017/06/29/caipyra-2017.html)
+# I helped organize these!
+[Code in the Dark Floripa - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
+[Python Brasil 12 - Florianópolis, BR](http://2016.pythonbrasil.org.br/)  
+[Pyzza Floripa - Florianópolis, BR](https://www.facebook.com/events/620666271458869)  
+[The Developers Conference (Python Track) - Florianópolis, BR](http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-python)  
+[Code in the Dark Floripa v2 - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
+[Python Floripa Meetup](https://www.meetup.com/Floripa-Python-Meetup/)  
+[DevOps Floripa Meetup](https://www.meetup.com/DevOps-Florianopolis/)
+
+# Conferences I attended
+Latinoware 2012 - Foz do Iguaçu, BR  
+Latinoware 2014 - Foz do Iguaçu, BR  
+[Startup Weekend Agro 2016 - Cascavel, BR](http://deployeveryday.com/2016/03/29/startup-weekend-agro-cascavel-2016.html)  
+[FLISOL 2016 - Cascavel, BR](http://deployeveryday.com/2016/04/19/flisol2016-cascavel.html)  
+[SC Dev Summit - Joinville, BR](http://deployeveryday.com/2016/05/29/sc-dev-summit-16.html)  
+Code in the Dark Floripa, Florianópolis, BR  
+Python Brasil 12 - Florianópolis, BR  
+GopherCon Brasil 2016, Florianópolis, BR  
+Pyzza Floripa, Florinaópolis, BR - A Python Meetup with lots of Pizza  
+The Developers Conference, Florianópolis, BR  
+Python Sudeste 2017, Rio de Janeiro, BR  
+Code in the Dark Floripa v2, Florianópolis, BR  
+UXConfBR 2017, Porto Alegre, BR  
+[Caipyra 2017, Ribeirão Preto, BR](http://deployeveryday.com/2017/06/29/caipyra-2017.html)  
+BrazilJS 2017, Porto Alegre, BR  
+Python Sul 2018, Porto Alegre, BR  
