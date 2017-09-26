@@ -48,4 +48,4 @@ Code in the Dark Floripa v2 - Florianópolis, BR
 UXConfBR 2017 - Porto Alegre, BR  
 [Caipyra 2017 - Ribeirão Preto, BR](http://deployeveryday.com/2017/06/29/caipyra-2017.html)  
 BrazilJS 2017 - Porto Alegre, BR  
-Python Sul 2018 - Porto Alegre, BR  
+Python Sul 2017 - Porto Alegre, BR  
