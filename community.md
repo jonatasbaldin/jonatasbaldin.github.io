@@ -1,7 +1,9 @@
 ---
 layout: page
-title:
+title: Community
 ---
+
+Here are some participations I've made for the technology community.
 
 # Talks and Workshops
 [Ansible: Infraestrutura como Código - FLISOL Cascavel 2016](https://speakerdeck.com/jonatasbaldin/ansible-infraestrutura-como-codigo)  
@@ -24,6 +26,8 @@ title:
 
 # Open Source Contributions
 [Zappa Contributor](https://github.com/Miserlou/Zappa)  
+[s3-environ](https://github.com/jonatasbaldin/s3-environ)  
+[resize4me](https://github.com/jonatasbaldin/resize4me)  
 [How to GraphQL - Python Tutorial](https://www.howtographql.com/graphql-python/0-introduction/)  
 [Serverless Weekly Curator](http://eepurl.com/cUU8sD)  
 [PyBunker Contributor](http://www.pybunker.com.br/)  
