@@ -22,6 +22,12 @@ title:
 [Python Floripa Meetup](https://www.meetup.com/Floripa-Python-Meetup/)  
 [DevOps Floripa Meetup](https://www.meetup.com/DevOps-Florianopolis/)
 
+# Open Source Contributions
+[Zappa Contributor](https://github.com/Miserlou/Zappa)  
+[How to GraphQL - Python Tutorial](https://www.howtographql.com/graphql-python/0-introduction/)  
+[Serverless Weekly Curator](http://eepurl.com/cUU8sD)  
+[PyBunker Contributor](http://www.pybunker.com.br/)  
+
 # Conferences I attended
 Latinoware 2012 - Foz do Iguaçu, BR  
 Latinoware 2014 - Foz do Iguaçu, BR  
