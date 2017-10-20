@@ -14,6 +14,7 @@ Here are some participations I've made for the technology community.
 [Django Channeled - Python Sul 2017](https://speakerdeck.com/jonatasbaldin/django-channeled)  
 [DRF vs Graphene - Python Floripa 2017](https://www.youtube.com/watch?v=WXRmRcIVzqE)  
 [Serverless & DevOps - DevOps Floripa 2017](https://speakerdeck.com/jonatasbaldin/serverless-and-devops)  
+[In the land of Serverless who uses Zappa is king! - PyConZA 2017](https://www.youtube.com/watch?v=1aggqfPzhNY)  
 
 # I helped organize these!
 [Code in the Dark Floripa - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
@@ -49,3 +50,4 @@ UXConfBR 2017 - Porto Alegre, BR
 [Caipyra 2017 - Ribeirão Preto, BR](http://deployeveryday.com/2017/06/29/caipyra-2017.html)  
 BrazilJS 2017 - Porto Alegre, BR  
 Python Sul 2017 - Porto Alegre, BR  
+PyConZA 2017 - Cape Town, ZA  
