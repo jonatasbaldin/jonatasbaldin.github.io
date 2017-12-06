@@ -15,6 +15,7 @@ Here are some participations I've made for the technology community.
 [DRF vs Graphene - Python Floripa 2017](https://www.youtube.com/watch?v=WXRmRcIVzqE)  
 [Serverless & DevOps - DevOps Floripa 2017](https://speakerdeck.com/jonatasbaldin/serverless-and-devops)  
 [In the land of Serverless who uses Zappa is king! - PyConZA 2017](https://www.youtube.com/watch?v=1aggqfPzhNY)  
+[Django Channeled - PyConAR 2017](https://speakerdeck.com/jonatasbaldin/pyconar-2017-django-channeled)  
 
 # I helped organize these!
 [Code in the Dark Floripa - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
@@ -23,7 +24,8 @@ Here are some participations I've made for the technology community.
 [The Developers Conference (Python Track) - Florianópolis, BR](http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-python)  
 [Code in the Dark Floripa v2 - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
 [Python Floripa Meetup](https://www.meetup.com/Floripa-Python-Meetup/)  
-[DevOps Floripa Meetup](https://www.meetup.com/DevOps-Florianopolis/)
+[DevOps Floripa Meetup](https://www.meetup.com/DevOps-Florianopolis/)  
+[Serverless Brasil Community](https://serverlessbrasil.org)  
 
 # Open Source Contributions
 [Zappa Contributor](https://github.com/Miserlou/Zappa)  
@@ -32,6 +34,7 @@ Here are some participations I've made for the technology community.
 [How to GraphQL - Python Tutorial](https://www.howtographql.com/graphql-python/0-introduction/)  
 [Serverless Weekly Curator](http://eepurl.com/cUU8sD)  
 [PyBunker Contributor](http://www.pybunker.com.br/)  
+[Serverless Brasil](https://serverlessbrasil.org)  
 
 # Conferences I attended
 Latinoware 2012 - Foz do Iguaçu, BR  
@@ -51,3 +54,4 @@ UXConfBR 2017 - Porto Alegre, BR
 BrazilJS 2017 - Porto Alegre, BR  
 Python Sul 2017 - Porto Alegre, BR  
 PyConZA 2017 - Cape Town, ZA  
+PyConAR 2017 - Córdoba , AR  
