@@ -5,6 +5,8 @@ description:         "Hi, you've just entered in my cool vortex. Here I talk abo
 url:                 http://deployeveryday.com
 baseurl:             ''
 paginate:            10
+markdown: kramdown
+highlighter: rouge
 
 # SEO
 twitter:
@@ -24,5 +26,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jemoji
   - jekyll-seo-tag
