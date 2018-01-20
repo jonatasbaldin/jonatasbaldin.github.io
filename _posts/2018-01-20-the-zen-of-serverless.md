@@ -20,6 +20,6 @@ Frameworks are better than manual work.
 Your use case may be the best fit, or maybe not.  
 Even though it looks like magic,  
 Don't forget the twelve-factor app.  
-Events are on honking great idea -- let's use more of those!  
+Events are one honking great idea -- let's use more of those!  
 
 *Inspired by [The Zen of Python](https://www.python.org/dev/peps/pep-0020/)*
