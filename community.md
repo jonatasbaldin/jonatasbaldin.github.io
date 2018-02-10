@@ -16,6 +16,7 @@ Here are some participations I've made for the technology community.
 [Serverless & DevOps - DevOps Floripa 2017](https://speakerdeck.com/jonatasbaldin/serverless-and-devops)  
 [In the land of Serverless who uses Zappa is king! - PyConZA 2017](https://www.youtube.com/watch?v=1aggqfPzhNY)  
 [Django Channeled - PyConAR 2017](https://speakerdeck.com/jonatasbaldin/pyconar-2017-django-channeled)  
+[Serverless for Pythonistas - PyCon Colombia 2018](https://speakerdeck.com/jonatasbaldin/pycon-colombia-2018-serverless-for-pythonistas)  
 
 # I helped organize these!
 [Code in the Dark Floripa - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
@@ -55,3 +56,4 @@ BrazilJS 2017 - Porto Alegre, BR
 Python Sul 2017 - Porto Alegre, BR  
 PyConZA 2017 - Cape Town, ZA  
 PyConAR 2017 - Córdoba , AR  
+PyCon Colombia 2018 - Medellín , CO  
