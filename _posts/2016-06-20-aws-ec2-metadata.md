@@ -4,7 +4,6 @@ title: "AWS EC2 Metadata"
 date: 2016-06-20 11:00:00
 tags: ['aws', 'ec2', 'devops', 'metadata']
 description: "You need to create a script for sending custom metrics do CloudWatch, separated by the instance name. But this script should be generic and applied in various EC2 instances. How can we know the instance ID or its public IP? We may use EC2 Metadata!"
-comments: True
 ---
 
 You need to create a script for sending custom metrics do CloudWatch, separated by the instance name. But this script should be generic and applied in various EC2 instances. How can we know the instance ID or its public IP? We may use EC2 Metadata!

@@ -4,7 +4,6 @@ title: "Some thoughts on writing almost everyday"
 date: 2016-10-08 09:00:00
 tags: ['thoughts', 'opinion', 'writing']
 description: "On September 19th I wrote a post promising myself to write one post everyday. I was at a hype to constantly share something with the world and put my share out there, every single day. In nine days I published eight articles, mostly about Docker Compose, since I was learning about that. Then I got homesick for a whole week, with too much headache to continue on doing that, and stopped :wink:"
-comments: True
 ---
 
 On September 19th I made an article promising myself to write [one post everyday](http://deployeveryday.com/2016/09/19/one-post-every-day.html). I was hyped to constantly share something with the world and put little snippets of knowledge out there, *every single day*. For nine days I published eight articles, mostly about Docker Compose, since I was learning the tool. Last Monday, I got homesick for a whole week, with too much headache to continue, so I stopped. 

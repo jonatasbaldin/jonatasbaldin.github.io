@@ -4,7 +4,6 @@ title: "Cloud Inception with Ravello Systems"
 date: 2016-01-20 15:00:00
 tags: ['cloud', 'ravello', 'nested', 'amazon', 'gpc', 'api', 'python']
 description: "Playing around with cloud computing is much more fun with Ravello Systems. Why? Just read they description on Google: Easily run any virtual environment lab (VMware / KVM) with any networking topology in AWS or Google cloud without modifications using nested virtualization."
-comments: True
 ---
 
 Playing around with cloud computing is much more fun with [Ravello Systems](https://www.ravellosystems.com/). Why? Just read they description on Google:

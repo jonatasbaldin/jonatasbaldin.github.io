@@ -4,7 +4,6 @@ title:  "Hey sysadmin, start coding!"
 date:   2015-06-04 13:10:00
 tags: ['devops', 'coding', 'infrastructure', 'cloud']
 description: "I didnt' like to code, I couldn't trust the automation scripts: they seem too fragile, always bugging around when moved between systems and creating an unreliable environment. Setting up everything manually, GUI or console, makes you feel strong, in total control of the process, you know that every mistake can be solved through right away, by poking around in the logs, configuration files and Google Search. Hell, sysadmins love to see things happen, to touch the hardware, to listen that datacenter noise. [Un]fortunately, those dogs days are over."
-comments: True
 ---
 
 ![goodcode](http://imgs.xkcd.com/comics/good_code.png)

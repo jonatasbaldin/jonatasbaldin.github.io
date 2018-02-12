@@ -4,7 +4,6 @@ title: "Composing Docker Environments: Networking"
 date: 2016-09-22 23:30:00
 tags: ['docker', 'docker-compose', 'compose', 'container', 'networking']
 description: "Web framework? Got it! Database? Yep! Today we are going to see how can we link both services through the Docker network. It can a be pretty simple and quick configuration, but it also exposes a mature surface to be explored. :whale:"
-comments: True
 ---
 
 Web framework? Got it! Database? Yep! Today we are going to see how can we link both services through the Docker network. It can be a pretty simple and quick configuration, but it also exposes a mature surface to be explored. :whale:

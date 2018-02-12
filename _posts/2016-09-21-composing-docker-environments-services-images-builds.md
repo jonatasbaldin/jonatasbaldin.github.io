@@ -4,7 +4,6 @@ title: "Composing Docker Environments: Services, Images and Builds"
 date: 2016-09-21 08:00:00
 tags: ['docker', 'docker-compose', 'compose', 'container', 'services', 'images', 'builds']
 description: "Today we continue talking about Docker Compose, following by the last post. We are going to lay out a foundation to build our environment, commit by commit, and also explore the concepts of services, images and builds. :whale:"
-comments: True
 ---
 
 Today we continue talking about Docker Compose, following the [last post](http://deployeveryday.com/2016/09/20/composing-docker-environments.html). We are going to lay out a foundation to build our environment, commit by commit, and also explore the concepts of services, images and builds. :whale:

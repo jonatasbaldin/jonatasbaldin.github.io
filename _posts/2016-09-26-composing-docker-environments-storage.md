@@ -4,7 +4,6 @@ title: "Composing Docker Environments: Storage"
 date: 2016-09-26 22:00:00
 tags: ['docker', 'docker-compose', 'compose', 'container', 'storage']
 description: "Docker storage is a huuuuuuuge topic. It includes images, containers, drivers, volumes, layered file system and so on. If you want to start mastering your data, this is the right place! :whale:"
-comments: True
 ---
 
 Want to get onboard on Docker Compose? Here's the past posts:

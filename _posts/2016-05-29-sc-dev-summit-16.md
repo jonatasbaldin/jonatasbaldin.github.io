@@ -4,7 +4,6 @@ title: "SC Dev Summit 2016"
 date: 2016-05-29 11:30:00
 tags: ['joiville', 'scdevsummit', 'dev', 'frontend', 'backend']
 description: "Nos dias 20 e 21 de maio aconteceu em Joinville/SC a primeira SC Dev Summit, realizado pelo pessoal do PHPSC e Front In Joinville. Fica aqui um pequeno resumo do que rolou nesses dois dias!"
-comments: True
 ---
 
 Nos dias 20 e 21 de maio aconteceu em Joinville/SC a primeira [SC Dev Summit](http://scdevsummit.com.br), realizado pelo pessoal do PHPSC e Front In Joinville. Fica aqui um pequeno resumo do que rolou nesses dois dias!

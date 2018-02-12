@@ -4,7 +4,6 @@ title: "Composing Docker Environments: Scaling I"
 date: 2016-09-28 23:30:00
 tags: ['docker', 'docker-compose', 'compose', 'container', 'scale']
 description: "Application scaling is the magic trick everyone is talking about. All the cool kids are scaling their environments up and down and using containers. Scaling Docker is not an exact science: you can do it by hand (but please don't) or use orchestration software like Kubernetes or Swarm. Today we are going to see how to scale Docker Compose using a single host :whale:"
-comments: True
 ---
 
 Want to get onboard on Docker Compose? Here's the past posts:

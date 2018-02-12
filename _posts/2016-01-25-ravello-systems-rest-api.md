@@ -4,7 +4,6 @@ title: "Ravello Systems REST API"
 date: 2016-01-25 23:30:00
 tags: ['cloud', 'ravello', 'api', 'python', 'powershell']
 description: "In the last post, I wrote about how Ravello Systems brought a new way of doing cloud computing, specializing in cloud abstraction, nested virtualizaion and L2/L3 networking. Naturally, as a mature application, Ravello also has a REST API that allows to manage its resources in a programmatically way. That is what I'm going to talk about today."
-comments: True
 ---
 
 In the [last post](http://deployeveryday.com/2016/01/20/cloud-inception-with-ravello-systems.html), I wrote about how [Ravello Systems](https://www.ravellosystems.com/) brought a new way of doing cloud computing, specializing in cloud abstraction, nested virtualizaion and L2/L3 networking.      

@@ -6,7 +6,6 @@ tags: ['api', 'design', 'http', 'json', 'api blueprint', 'html', 'restfulapi', '
 description: "As a software developer, I know how hard it is to contain the urge to start coding as soon as we can. After the first sprint planning, our fingers – uncontrolled, hungry creatures – want to start smashing the keyboard, translating our ideas into code fastly and furiously.
 
 Despite how great we feel while developing, it's always a good idea to take a step back, especially when building something that could be used by many different users – like an API is. A. In this post, I’ll show you why and how to design a properly-thought API."
-comments: True
 ---
 
 *Originally posted at [Cheesecake Labs](https://cheesecakelabs.com/blog/api-design-think-first-code-later/).*

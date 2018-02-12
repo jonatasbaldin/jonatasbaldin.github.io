@@ -4,7 +4,6 @@ title:  "Install Linux from Network"
 date:   2015-03-15 23:30:00
 tags: ['pxe', 'dhcp', 'tftp', 'os']
 description: "Installing a new OS from scratch (physical or virtual) sucks..."
-comments: True
 ---
 
 Installing a new OS from scratch (physical or virtual) sucks.

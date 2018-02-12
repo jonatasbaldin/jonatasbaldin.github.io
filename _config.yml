@@ -8,6 +8,9 @@ paginate:            10
 markdown: kramdown
 highlighter: rouge
 
+# Disqus
+comments: True
+
 # SEO
 twitter:
   username: jonatasbaldin

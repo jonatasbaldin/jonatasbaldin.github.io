@@ -4,7 +4,6 @@ title: "Composing Docker Environments"
 date: 2016-09-20 08:00:00
 tags: ['docker', 'docker-compose', 'compose', 'container', 'django', 'postgres']
 description: "Docker is awesome, but running containers by hand is awful. You can improve your environment using docker-compose to create multi-container applications."
-comments: True
 ---
 
 *This is a blog series! You can find the other posts at the links below*:

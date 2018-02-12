@@ -4,7 +4,6 @@ title: "Avoiding race condition on Docker Compose"
 date: 2016-09-12 09:30:00
 tags: ['race condition', 'docker', 'docker-compose', 'python', 'django', 'postgres']
 description: "When using multiple containers approach with Docker Compose, we often get race condition issues, where the application server depends on the database, but the first one ends up running too early and may break the stack. Here, we're gonna see a Python way to solve this problem."
-comments: True
 ---
 
 When using multiple containers approach with Docker Compose, we often get race condition issues, where the application server depends on the database, but the first one ends up running too early and may break the stack. Here, we're gonna see a Python way to solve this problem.

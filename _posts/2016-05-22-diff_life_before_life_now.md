@@ -4,7 +4,6 @@ title: "$ diff life_before life_now"
 date: 2016-05-22 11:00:00
 tags: ['floripa', 'florianopolis', 'mindthegraph', 'software engineer', 'cloud', 'aws', 'php', 'devops']
 description: "Faz um tempinho que não posto algo, né? Um mês e três dias pra ser exato, mesmo compreendendo que consistência é o um dos pilares para um bom blog. Mas minha vida pessoal e profissional passou por um plot twist gigantesco nestas últimas semanas, tirando qualquer chance de manter a normalidade. Agora com as águas mais calmas, escrevo-lhes diretamente de Florianópolis, contando como cheguei aqui!"
-comments: True
 ---
 
 Faz um tempinho que não posto algo, né? Um mês e três dias para ser exato, mesmo compreendendo que consistência é o um dos pilares para um bom blog. Mas minha vida pessoal e profissional passou por um plot twist gigantesco nestas últimas semanas, tirando qualquer chance de manter a normalidade. Agora com as águas mais calmas, escrevo-lhes diretamente de Florianópolis, contando como cheguei aqui!

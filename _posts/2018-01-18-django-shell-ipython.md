@@ -4,7 +4,6 @@ title: "Django + Jupyter = ❤️"
 date: 2018-01-18 06:00:00
 tags: ["python", "django", "shell", "ipython"]
 description: "Gosta de Django? Simmm! Gosta de Jupyter? Simmm! Então imagina os dois juntos..."
-comments: True
 ---
 
 [Jupyter Notebooks](https://jupyter.org/) são usados para criar e compartilhar código em mais de quartenta linguagens, criando um ambiente onde visualização e narrativas são cidadões de primeira classe.

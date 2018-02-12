@@ -4,7 +4,6 @@ title: "The Zen of Serverless"
 date: 2018-01-20 10:00:00
 tags: ["serverless", "python", "manifesto"]
 description: "As I Python lover, I feel inspired every time I read the Zen of Python – a manifesto that guides the heart of all the fellow Pythonistas. Now, I present you the Zen of Serverless!"
-comments: True
 ---
 
 No server management is better than server management.  

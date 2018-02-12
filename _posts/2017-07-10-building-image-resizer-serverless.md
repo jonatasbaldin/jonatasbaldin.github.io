@@ -5,7 +5,6 @@ date: 2017-07-25 16:00:00
 tags: ["serverless", "faas", "lambda", "aws", "s3"]
 description: "Today we are going to explore a little bit of the AWS Lambda environment by building an Image Resizer. It will use a AWS S3 bucket as the source event, manipulating any image uploaded to it and saving the resized one in another bucket. First, everything will be done manually, using even the code editor available in Lambda, and we will finish by automating the package and deploy with Zappa. I assume you already have an AWS account and some basic knowledge of they services."
 image: "/img/lambda_symbol.png"
-comments: True
 ---
 
 Today we are going to explore a little bit of the AWS Lambda environment by building an Image Resizer. It will use a AWS S3 bucket as the source event, manipulating any image uploaded to it and saving the resized one in another bucket. First, everything will be done manually, using even the code editor available in Lambda, and we will finish by automating the package and deploy with [Zappa](https://github.com/Miserlou/Zappa). I assume you already have an AWS account and some basic knowledge of they services.

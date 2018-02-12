@@ -4,7 +4,6 @@ title: "New experimental setup (text editor and stuff)"
 date: 2016-09-27 10:00:00
 tags: ['setup', 'neovim', 'zsh', 'oh-my-zsh', 'hypertem', 'nova']
 description: "Today I will take a break from containers and write a little bit about how I get stuff from my head into zeros and ones. I've been using open source operating systems - a.k.a. Linux - for 6 years and last month I got a Macbook Pro from work and once again I went into the wild searching for awesome stuff to run on OS X :sunglasses:"
-comments: True
 ---
 
 Today I will take a break from containers and write a little bit about how I get stuff from my head into zeros and ones. 

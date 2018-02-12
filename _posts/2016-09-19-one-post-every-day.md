@@ -4,7 +4,6 @@ title: "One post everyday!"
 date: 2016-09-19 19:00:00
 tags: []
 description: "I just read Swizec's post on publishing everyday and I got mad."
-comments: True
 ---
 
 I just read Swizec's post on [publishing everyday](https://swizec.com/blog/publish-every-day/swizec/7016) and I got mad.

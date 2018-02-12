@@ -4,7 +4,6 @@ title: "Startup Weekend Agro Cascavel 2016"
 date: 2016-03-29 12:00:00
 tags: ['startup', 'startupweekend', 'business']
 description: "Quebrando o padrão de textos em inglês (ainda farei um blog multi linguagem), hoje lhes apresento o resumo de uma das experiências mais enriquecedoras que tive nos últimos tempos: participar da Startup Weekend Agro Cascavel 2016. Sem sombra de dúvidas, valeu cada minuto do meu final de semana!"
-comments: True
 ---
 
 Quebrando o padrão de textos em inglês (ainda farei um blog multi linguagem), hoje lhes apresento o resumo de uma das experiências mais enriquecedoras que tive nos últimos tempos: participar da Startup Weekend Agro Cascavel 2016. Sem sombra de dúvidas, valeu cada minuto do meu final de semana!
