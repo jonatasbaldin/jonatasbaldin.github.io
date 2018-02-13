@@ -24,7 +24,7 @@ Segundamente, agradecimentos especiais ao Benjy Malca. Esse Peruano foi nas últ
 # Cafés
 Poblado tem diversos cafés/lounges, onde eu tenho ido para trabalhar. A qualidade do café aqui é excelente e os preços até que são bacanas:  R$4 Expresso, R$6 Cold Brew, R$8 Frappuccino. Isso que a área mais turística da cidade, então imagino que outras partes devem ter um preço ainda mais suave. Lugares que totalmente recomendo são o [Rumah-Soul Up](https://www.facebook.com/RumahSoulUp/), [Pergamino Café](https://www.facebook.com/pergaminocafe/), [Creador Café](https://www.facebook.com/creador.cafe/), [BuenaVida Café](https://www.facebook.com/buenavidacafe/).
 
-<video class="instagram-stories" autoplay="autoplay" loop="loop" controls>
+<video class="instagram-stories" loop="loop" controls>
   <source src="/video/medellin_rumahsoulup.mp4" type="video/mp4">
 </video>
 
@@ -37,7 +37,7 @@ Pra quem curte rolês aleatórios: deem uma olhada nos eventos do [Meetup](https
 
 Pelo Couch Surfing encontrei um [grupo](https://www.facebook.com/groups/610062142520156/) de pessoas que se reune todo Sábado de manhã pra jogar Ultimate Frisbee. E QUE ESPORTE BACANA. É tipo futebol americano, mas sem contato e com um frisbee. Ok, ok, não é nada parecido, mas é divertido demais. 
 
-<video class="instagram-stories" autoplay="autoplay" loop="loop" controls>
+<video class="instagram-stories" loop="loop" controls>
   <source src="/video/medellin_frisbee.mp4" type="video/mp4">
 </video>
 
@@ -58,7 +58,7 @@ Esse rolê é doido. Parque Arví é uma reserva natural enorrrrme, com 16 mil h
 Primeiro, metrô até a estação Acevedo. Btw, metrô de Medellín é excelente e custa somente R$2,50 (se fizer o cartão de integração, fica ainda mais barato). Depois, são 20 minutos de teleférico até o Parque.
 Metade desse trajeto é sobre algumas comunidades mais pobres de Medellín e outra metade sobre as florestas do parque. Breathtaking, essa é a única expressão possível. O passeio é lindo demais!
 
-<video class="instagram-stories" autoplay="autoplay" loop="loop" controls>
+<video class="instagram-stories" loop="loop" controls>
   <source src="/video/medellin_arvi.mp4" type="video/mp4">
 </video>
 
