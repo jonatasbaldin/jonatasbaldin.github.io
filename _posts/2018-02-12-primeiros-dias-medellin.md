@@ -4,6 +4,7 @@ title: "Primeiros dias em Medellín"
 date: 2018-02-12 10:00:00
 tags: ["travel", "medellin"]
 description: "A vida nômade começou em Medellín!"
+image: /img/medellin_landscape.jpg
 ---
 
 ![Medellin Paisagem](/img/medellin_landscape.jpg){: .full-image }
