@@ -46,14 +46,14 @@ E o resultado desses rolês? Entrei num grupo de WhatsApp chamado Medellín Meet
 # Jardín Botánico e Museo de Antioquia
 Outro local bacaníssimo pra passear e fazer piquenique é o Jardim Botânico de Medellín. O lugar tem 14 hectares e mais de 1.000 espécies de coisas vivas (vide Wikipedia). O rolê é bem calmo, pra relaxar mesmo. Lá tem uma lagoa com uns patos, peixes e tartarugas. E lagartos. ENORMES. VÁRIOS. Quase sequestrei um de tão lindos.
 
-Já o Museu de Antioquia tem uma coleção incrível de obras do artista Fernando Botero, conhecido por seu traços exagerados. Quadros clássicos como Pedrito, La Colombiana, Pablo Escobar Muerto estão por lá. E as esculturas são lindíssimas, com volumes exaltados e identidade única.
+Já o Museu de Antioquia tem uma coleção incrível de obras do artista Fernando Botero, conhecido por seus traços exagerados. Quadros clássicos como Pedrito, La Colombiana, Pablo Escobar Muerto estão por lá. E as esculturas são lindíssimas, com volumes exaltados e identidade única.
 
 ![Obras Pedro Botero](/img/medellin_botero_collage.jpg){: .full-image }
 
 (jojo apreciador da arte 2018 TM)
 
-# Parque Arvi
-Esse rolê é doido. Parque Arvi é uma reserva natural enorrrrme, com 16 mil hectares, sendo 1.760 florestas naturais intocadas. Porém, somente pra chegar lá é uma aventura.
+# Parque Arví
+Esse rolê é doido. Parque Arví é uma reserva natural enorrrrme, com 16 mil hectares, sendo 1.760 florestas naturais intocadas. Porém, somente pra chegar lá é uma aventura.
 
 Primeiro, metrô até a estação Acevedo. Btw, metrô de Medellín é excelente e custa somente R$2,50 (se fizer o cartão de integração, fica ainda mais barato). Depois, são 20 minutos de teleférico até o Parque.
 Metade desse trajeto é sobre algumas comunidades mais pobres de Medellín e outra metade sobre as florestas do parque. Breathtaking, essa é a única expressão possível. O passeio é lindo demais!
@@ -62,7 +62,7 @@ Metade desse trajeto é sobre algumas comunidades mais pobres de Medellín e out
   <source src="/video/medellin_arvi.mp4" type="video/mp4">
 </video>
 
-Já no Parque, há diversas coisas pra fazer entre os 54 milhas de trilhas. Como eu ainda tinha que trabalhar de noite, eu e o Benjy fizemos uma caminha de 1h até um área de piquenique, comemos e fomos embora. Mas cada centímetro daquele lugar é lindo.
+Já no Parque, há diversas coisas pra fazer entre as 54 milhas de trilhas. Como ainda tinha que trabalhar de noite, eu e o Benjy fizemos uma caminha de 1h até um área de piquenique, comemos e fomos embora. Mas cada centímetro daquele lugar é lindo.
 
 Ah, lá tem um pico que vende folha de coca! Na real, tem várias coisas feitas com folha de coca: pomadas, café, chá, aguardente, rum, farinha etc. Primeira vez que mastiguei umas folhas hahahha é bem amargo e não senti nada demais 😔 mas o chá com mel é excelente.
 
