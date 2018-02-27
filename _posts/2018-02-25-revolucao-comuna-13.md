@@ -4,7 +4,7 @@ title: "A Revolução da Comuna 13"
 date: 2018-02-25 20:00:00
 tags: ["travel", "medellin"]
 description: "Como um agregado de bairros de Medellín foi de uma das áreas mais perigosas do mundo e uma das comunidades mais vivas, solidárias e inovadoras."
-image: /img/medellin_landscape.jpg
+image: /img/medellin_comuna_landscape.jpg
 ---
 
 ![Comuna 13](/img/medellin_comuna_landscape.jpg){: .full-image }
