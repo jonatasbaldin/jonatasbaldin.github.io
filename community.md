@@ -27,6 +27,7 @@ Here are some participations I've made for the technology community.
 [Python Floripa Meetup](https://www.meetup.com/Floripa-Python-Meetup/)  
 [DevOps Floripa Meetup](https://www.meetup.com/DevOps-Florianopolis/)  
 [Serverless Brasil Community](https://serverlessbrasil.org)  
+[Python Sul 2018](https://pythonsul.org)  
 
 # Open Source Contributions
 [Zappa Contributor](https://github.com/Miserlou/Zappa)  
@@ -57,3 +58,4 @@ Python Sul 2017 - Porto Alegre, BR
 PyConZA 2017 - Cape Town, ZA  
 PyConAR 2017 - Córdoba , AR  
 PyCon Colombia 2018 - Medellín , CO  
+Python Sul 20178, Florianópolis, BR  

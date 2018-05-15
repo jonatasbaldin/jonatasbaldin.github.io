@@ -7,7 +7,7 @@ Hi there! I'm **Jonatas Baldin** and this is my personal space to share what I'm
 
 I'm 23 years old (now I need to remember updating this every year...). I was born in Brazil and live here since. I chose to write primarily in English because I can reach a lot more than Brazilian Portuguese.
 
-I was a infrastructure focused guy until August/2016, but as life is a surprise box, now I'm a full-time software developer! (who would imagine?). I'm working at [Maecenas](https://maecenas.com).
+I was a infrastructure focused guy until August/2016, but as life is a surprise box, now I'm a full-time software developer! (who would imagine?).
 
 Besides working, I also **love** giving talks, attending to conferences and even help organizing them. You can take look at my participations [here]({{ site.url }}/community.html ).
 
