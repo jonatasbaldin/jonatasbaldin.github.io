@@ -61,5 +61,5 @@ Python Sul 2017 - Porto Alegre, BR
 PyConZA 2017 - Cape Town, ZA  
 PyConAR 2017 - Córdoba, AR  
 PyCon Colombia 2018 - Medellín, CO  
-Python Sul 2018, Florianópolis, BR  
-Mumbai Tech Meetup, Mumbai, IN  
+Python Sul 2018 - Florianópolis, BR  
+Mumbai Tech Meetup - Mumbai, IN  
