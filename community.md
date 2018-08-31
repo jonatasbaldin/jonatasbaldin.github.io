@@ -27,17 +27,19 @@ Here are some participations I've made for the technology community.
 [Code in the Dark Floripa v2 - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
 [Python Floripa Meetup](https://www.meetup.com/Floripa-Python-Meetup/)  
 [DevOps Floripa Meetup](https://www.meetup.com/DevOps-Florianopolis/)  
-[Serverless Brasil Community](https://serverlessbrasil.org)  
+[Serverless Brasil Community](https://t.me/serverlessbrasil)  
 [Python Sul 2018](https://pythonsul.org)  
 
-# Open Source Contributions
+# Contributions around the Internet
 [Zappa Contributor](https://github.com/Miserlou/Zappa)  
 [s3-environ](https://github.com/jonatasbaldin/s3-environ)  
 [resize4me](https://github.com/jonatasbaldin/resize4me)  
+[slydes](https://github.com/jonatasbaldin/slydes)  
+[vim-tips](https://github.com/jonatasbaldin/vim-tips)  
 [How to GraphQL - Python Tutorial](https://www.howtographql.com/graphql-python/0-introduction/)  
+[PSF Blogger](http://pyfound.blogspot.com/)  
 [Serverless Weekly Curator](http://eepurl.com/cUU8sD)  
 [PyBunker Contributor](http://www.pybunker.com.br/)  
-[Serverless Brasil](https://serverlessbrasil.org)  
 
 # Conferences I attended
 Latinoware 2012 - Foz do Iguaçu, BR  
@@ -57,7 +59,7 @@ UXConfBR 2017 - Porto Alegre, BR
 BrazilJS 2017 - Porto Alegre, BR  
 Python Sul 2017 - Porto Alegre, BR  
 PyConZA 2017 - Cape Town, ZA  
-PyConAR 2017 - Córdoba , AR  
-PyCon Colombia 2018 - Medellín , CO  
-Python Sul 20178, Florianópolis, BR  
+PyConAR 2017 - Córdoba, AR  
+PyCon Colombia 2018 - Medellín, CO  
+Python Sul 2018, Florianópolis, BR  
 Mumbai Tech Meetup, Mumbai, IN  
