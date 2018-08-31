@@ -24,6 +24,7 @@ author:
   github:            https://github.com/jonatasbaldin
   linkedin:          https://br.linkedin.com/in/jonatasbaldin
   email:             jonatas.baldin@gmail.com
+  youtube:           https://www.youtube.com/channel/UCSckSM5vayBNNTl4nKuAUPg
 
 plugins: 
   - jekyll-paginate

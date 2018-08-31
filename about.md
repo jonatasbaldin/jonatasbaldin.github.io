@@ -11,7 +11,7 @@ I was a infrastructure focused guy until August/2016, but as life is a surprise 
 
 Besides working, I also **love** giving talks, attending to conferences and even help organizing them. You can take look at my participations [here]({{ site.url }}/community.html ).
 
-You can reach me at [Twitter]({{ site.author.twitter }}), [Github]({{ site.author.github }}) or [Email](mailto:{{ site.author.email }}).
+You can reach me at [Twitter]({{ site.author.twitter }}), [Github]({{ site.author.github }}), [Youtube]({{ site.author.youtube }}) or [Email](mailto:{{ site.author.email }}).
 
 This blog is powered by [Jekyll](https://jekyllrb.com), [Lanyon](http://lanyon.getpoole.com/) in [Github Pages](https://pages.github.com/).
 
