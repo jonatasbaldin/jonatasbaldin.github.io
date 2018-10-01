@@ -41,3 +41,7 @@ The actual configuration is very simple:
 - Now, just wait. Since the DNS service is cached all around the world, it takes some time for these changes to be reflected all around.
 
 And, well, that's it. Now you have CDN _and_ TLS in your website, Chrome won't bother you anymore 😉.
+
+### @edit
+Some folks at the [DEV](https://dev.to/jojo/how-to-add-https-to-your-github-hosted-blog-138o) community and Twitter taught me that you can enable HTTPS [_directly_](https://help.github.com/articles/securing-your-github-pages-site-with-https/) on GitHub :o If you have a custom domain (not using the `github.io`), just go on _Settings_ and checkt the _Enable HTTPS option_ 🎉 This way you won't have the CDN features, but you be totally secured!
+
