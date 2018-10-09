@@ -11,27 +11,29 @@ Oi gente! Essa é uma lista de links que abordei na minha talk "Aventuras de um 
 
 Para uma lista mais completa, veja o [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads).
 
-### Trampo Remoto
+![](/img/links_nomade_digital.png){:. full-image }
+
+### Trampo Remoto 👩‍💻
 - [whoishiring](https://whoishiring.io/)
 - [We Work Remotely](https://weworkremotely.com/)
 - [Remote OK](https://http://remoteok.io/)
 
-### Minimalismo
+### Minimalismo 😌
 - [Minimalism: A Documentary About the Important Things](https://www.netflix.com/title/80114460)
 - [Minimalism: Live a Meaningful Life](https://www.theminimalists.com/books/)
 
-### Passagens Áereas
+### Passagens Áereas 🛫
 - [Skyscanner](https://www.skyscanner.com.br/)
 - [Kayak](https://www.kayak.com/)
 - [Decolar](https://www.decolar.com/)
 
-### Planejando a Viagem
+### Planejando a Viagem 🌎
 - [Nomadlist](https://nomadlist.com/)
 - [Teleport](https://teleport.org/)
 - [Quanto Custa Viajar](https://quantocustaviajar.com)
 - [OpenSignal](https://opensignal.com/)
 
-### Finanças
+### Finanças 🤑
 - [Numbeo - Custo de Vida](https://www.numbeo.com/cost-of-living/)
 - [Husky](https://husky.io/)
 - [Payoneer](https://payoneer.com)
@@ -40,24 +42,24 @@ Para uma lista mais completa, veja o [awesome-digital-nomads](https://github.com
 - [Nubank](https://www.nubank.com.br)
 - [Local Bitcoins](https://localbitcoins.com)
 
-### Visto
+### Visto 🇧🇷
 - [Itamaraty](http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros)
 
-### Lugares pra Trampar
+### Lugares pra Trampar 🏢
 - [Workfrom](https://workfrom.co/)
 
-### Acomodações
+### Acomodações 🏡
 - [Airbnb](https://www.airbnb.com/)
 - [Hostel World](https://www.hostelworld.com/)
 - [Booking](https://www.booking.com/)
 - [Couch Surfing](https://www.couchsurfing.com/)
 
-### Transporte
+### Transporte 🚌
 - [Google Maps](https://maps.google.com)
 - [Maps.me](https://maps.me)
 - [Moovit](https://moovit.com/)
 
-### Seguro de Viagem
+### Seguro de Viagem ⛑
 - [World Nomads](https://www.worldnomads.com/)
 
 Caso tenha algum link que queira adicionar, entre em contato comigo ou abra um PR [aqui](https://github.com/jonatasbaldin/jonatasbaldin.github.io).
