@@ -61,5 +61,6 @@ Para uma lista mais completa, veja o [awesome-digital-nomads](https://github.com
 
 ### Seguro de Viagem ⛑
 - [World Nomads](https://www.worldnomads.com/)
+- [Atlas Travel Insurance](https://www.hccmis.com/atlas-travel-insurance-quote?referid=9800270)
 
 Caso tenha algum link que queira adicionar, entre em contato comigo ou abra um PR [aqui](https://github.com/jonatasbaldin/jonatasbaldin.github.io).
