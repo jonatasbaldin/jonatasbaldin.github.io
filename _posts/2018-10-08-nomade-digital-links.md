@@ -9,6 +9,8 @@ image: /img/links_nomade_digital.png
 
 Oi gente! Essa é uma lista de links que abordei na minha talk "Aventuras de um Nômade Digital" para a [Python Brasil 14](https://2018.pythonbrasil.org.br/). Assim que publicar os slides e video, vou adicioná-los aqui também :)
 
+@edit: Você pode ver os slides [aqui](https://speakerdeck.com/jonatasbaldin/aventuras-de-um-nomade-digital).
+
 Para uma lista mais completa, veja o [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads).
 
 ![](/img/links_nomade_digital.png){:. full-image }
