@@ -9,7 +9,7 @@ The first time I tried to read the Clean Code, by Robert C. Martin – or Uncle 
 
 > Be prepared to work hard while reading this book. This is not a "feel good" book that you can read on an airplane and finish before you land. This book will make you work, and work hard. What kind of work will you be doing? You'll be reading code—lots of code.
 
-This plus my lack of time at the moment made me put the book back in the Kindle virtual shelve. 
+This plus my lack of time at the moment made me put the book back in the Kindle virtual shelf. 
 
 Two (I think?) years later, I finally picked it up again and gave it a try. So far, one of the best decisions I've made as a software developer.
 
@@ -28,7 +28,7 @@ The utter premise of the book is to show you bad code and how to refactor it int
 * First, everything is Java. From a Pythonista point of view, some sections the refactoring is only necessary because it's Java, where in other languages you may not have the problem in the first place. The book could try to use examples in other dialects or be language agnostic. 
 * Some code blocks are huge – multiple pages huge – and without any highlight. It can be hard to interpret code when you need to go back and forth in paper (or in a Kindle). Code is way easier to read in our favorite editor or IDE, where we can quickly jump all around the code.
 
-Somehow this title seemed kinda mystical to me. Every time I looked at it I got that "I'm not read for you" feeling. I thought it was full with precious but complex information, and that my lack of experience would make it hard to grasp. It wasn't quit the case for most of the book, where the precious content was written in a simple way, but certainly not easy to apply withing a team. 
+Somehow this title seemed kinda mystical to me. Every time I looked at it I got that "I'm not ready for you" feeling. I thought it was full with precious but complex information, and that my lack of experience would make it hard to grasp. It wasn't quit the case for most of the book, where the precious content was written in a simple way, but certainly not easy to apply withing a team. 
 
 Also, I believe reading Clean Code at different levels of your career will give you different insights. I hope to pick it up again in a couple of years with a different mindset, consuming its ideas in a distinct way.
 
