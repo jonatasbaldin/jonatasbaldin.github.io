@@ -6,6 +6,8 @@ description: "Do you want to be famous in the developer open source world? Here 
 image: /img/trending_github.png
 ---
 
+![A screenshot of me trending on GitHub](/img/trending_github.png){: .center-image }
+
 I'm sorry, I've never done a clickbait before. I must say, it does feel good hahah
 
 In last New Year's Eve – aka yesterday – I got almost 1k upvotes in /r/programming and, consequently, 700 GitHub stars so far. What was my awesome project? _A joke_.
