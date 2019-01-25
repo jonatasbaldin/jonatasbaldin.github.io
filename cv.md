@@ -103,12 +103,11 @@ Linux Hardening by OYS
 Performance and Tunning Linux by Coruja de TI  
 Progamming Fundamentals in C and Assembly by OYS  
 
-# Talks & Workshops
+# Talks
 [Ansible: Infraestrutura como Código - FLISOL Cascavel 2016](https://speakerdeck.com/jonatasbaldin/ansible-infraestrutura-como-codigo)  
 [Ansible: Infraestrutura como Código - FISL 17](https://www.youtube.com/watch?v=i79uTvUiOyg)  
 [API Design: Think Fist, Code Later - Pyzza Floripa](https://speakerdeck.com/jonatasbaldin/ansible-infraestrutura-como-codigo)  
 [Em terra de Serverless, quem usa Zappa é rei! - Caipyra 2017](https://speakerdeck.com/jonatasbaldin/in-the-land-of-serverless-who-uses-zappa-is-king)  
-[Django Girls (Mentor) - Caipyra 2017](https://djangogirls.org/ribeiraopreto/)  
 [Django Channeled - Python Sul 2017](https://speakerdeck.com/jonatasbaldin/django-channeled)  
 [DRF vs Graphene - Python Floripa 2017](https://www.youtube.com/watch?v=WXRmRcIVzqE)  
 [Serverless & DevOps - DevOps Floripa 2017](https://speakerdeck.com/jonatasbaldin/serverless-and-devops)  
@@ -119,12 +118,13 @@ Progamming Fundamentals in C and Assembly by OYS
 [Batteries Included - PyConZA 2018](https://www.youtube.com/watch?v=ZfgnizIG3Bg)  
 [Aventuras de um Nômade Digital - Python Brasil 14](https://speakerdeck.com/jonatasbaldin/aventuras-de-um-nomade-digital)
 
-# Volunteer Work
+# Volunteer
 [Code in the Dark Floripa - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
 [Python Brasil 12 - Florianópolis, BR](http://2016.pythonbrasil.org.br/)  
 [Pyzza Floripa - Florianópolis, BR](https://www.facebook.com/events/620666271458869)  
 [The Developers Conference (Python Track) - Florianópolis, BR](http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-python)  
 [Code in the Dark Floripa v2 - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
+[Django Girls - Caipyra 2017](https://djangogirls.org/ribeiraopreto/)  
 [Python Floripa Meetup – Florianópolis, BR](https://www.meetup.com/Floripa-Python-Meetup/)  
 [DevOps Floripa Meetup – Florianópolis, BR](https://www.meetup.com/DevOps-Florianopolis/)  
 [Serverless Brasil Community – Online](https://t.me/serverlessbrasil)  
