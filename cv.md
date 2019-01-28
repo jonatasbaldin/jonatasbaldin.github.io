@@ -3,6 +3,7 @@ layout: page
 title: Summary
 ---
 
+[Resume in PDF](https://drive.google.com/file/d/12dVe8uI_Xl3UDqy-XszqzV5icf_pCS58/view?usp=sharing)  
 [Job Positions](#job-positions)  
 [Education](#education)  
 [Courses](#courses)  
