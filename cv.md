@@ -1,8 +1,8 @@
 ---
 layout: page
+title: Summary
 ---
 
-# Summary
 [Job Positions](#job-positions)  
 [Education](#education)  
 [Courses](#courses)  
