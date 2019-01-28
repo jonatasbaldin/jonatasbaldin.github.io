@@ -1,10 +1,10 @@
 # Setup
 title:               Deploy Everyday
-tagline:             'my journey on Life & Internets'
-description:         "Hi, I'm Jojo. I travel and I do Internet stuff. Here I talk about my life and computer adventures. You can yell at me clicking in the icons below." 
+tagline:             'Jojo's Life and Internet'
+description:         "Hi, I'm Jojo. Here I talk about my life and computer adventures. You can yell at me clicking in the icons below." 
 url:                 http://deployeveryday.com
 baseurl:             ''
-paginate:            10
+paginate:            20
 markdown: kramdown
 highlighter: rouge
 
