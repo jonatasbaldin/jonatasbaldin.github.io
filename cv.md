@@ -1,6 +1,17 @@
 ---
 layout: page
-title: CV
+title: 
+---
+
+# Summary
+[Job Positions](#job-positions)  
+[Education](#education)  
+[Courses](#courses)  
+[Talks](#talks)  
+[Volunteer](#volunteer)  
+[Open Source Contributions](#open-source-contributions)  
+[Conferences Attended](#conferences-attended)  
+
 ---
 
 # Job Positions
@@ -13,7 +24,7 @@ Writing about Python technology and its community at the Python Software Foundat
 ## Software Engineer @ Stack Builders Inc.
 _May/2018 – Nov/2018_
 
-Worked as a software developer for the Tech Education team at a Cloud communications platform, developing software related to dynamic code generation, improving their documentation, investigating and fixing issues in their open source libraries and building demos to showcase their products.
+Worked as a software developer for the Tech Education team at a Cloud communications platform, involved with dynamic code generation, improving their documentation, investigating and fixing issues in their open source libraries and building demos to showcase their products.
 
 ---
 
@@ -27,21 +38,21 @@ At Make we were doing more than guiding people through new and cool technologies
 ## Software Engineer @ Maecenas Fine Art
 _Jan/2018 – May/2018_
 
-Worked remotely with a distributed team developing a micro service based backend for a KYC project and its infrastructure. The biggest challenge was around security, since we were managing sensitive information. Technologies used were Python, NodeJS, Docker Swarm, BDD and GraphQL.
+Worked remotely with a distributed team developing a micro service backend and managing infrastructure for a KYC project. The biggest challenge was security, since we were manipulating sensitive information. Technologies used were Python, NodeJS, Docker Swarm, BDD and GraphQL.
 
 ---
 
 ## Backend Developer @ Cheesecake Labs
 _Sep/2016 – Jan/2018_
 
-Worked together with remote foreign teams to develop and deploy scalable Web APIs. The technologies used were mostly Python, Django, Celery, Elasticsearch, Docker and AWS services. Inside the company, I was always searching ways to improve our development and community culture, assuming the role of blog editor and organizing events and meetups in our venue.
+Worked together with remote foreign teams to develop and deploy scalable Web APIs. The technologies used were mostly Python, Django, Celery, Elasticsearch, Docker and AWS services. Inside the company, I was always searching ways to improve our culture, assuming the role of blog editor and organizing events in our venue.
 
 ---
 
 ## Software Engineer @ Mind the Graph
 _May/2016 – Aug/2016_
 
-Redesigned all the infrastructure for the Mind the Graph platform, delivering a secure and high available system with a CI pipeline and a near identical environment for local development. The process involved a lot of AWS services (EC2, VPC, RDS, S3, Route 53) and DevOps open source tools like Ansible, Jenkins and Vagrant. While there, I also helped with the Cafundó Academy (internship project) and organized the Code in the Dark event. 
+Redesigned all the infrastructure for the Mind the Graph platform, delivering a secure and high available system with a CI pipeline and a near identical environment for local development. The process involved AWS services (EC2, VPC, RDS, S3, Route 53) and DevOps open source tools like Ansible, Jenkins and Vagrant. While there, I also helped with the Cafundó Academy (internship project) and organized the Code in the Dark event. 
 
 ---
 
@@ -114,7 +125,7 @@ Progamming Fundamentals in C and Assembly by OYS
 [In the land of Serverless who uses Zappa is king! - PyConZA 2017](https://www.youtube.com/watch?v=1aggqfPzhNY)  
 [Django Channeled - PyConAR 2017](https://speakerdeck.com/jonatasbaldin/pyconar-2017-django-channeled)  
 [Serverless for Pythonistas - PyCon Colombia 2018](https://speakerdeck.com/jonatasbaldin/pycon-colombia-2018-serverless-for-pythonistas)  
-[await a minute, let me async that for you - Mumbai Tech Meetup - 2018](https://github.com/jonatasbaldin/asyncio-talk)  
+[await a minute, let me async that for you - Mumbai Tech Meetup 2018](https://github.com/jonatasbaldin/asyncio-talk)  
 [Batteries Included - PyConZA 2018](https://www.youtube.com/watch?v=ZfgnizIG3Bg)  
 [Aventuras de um Nômade Digital - Python Brasil 14](https://speakerdeck.com/jonatasbaldin/aventuras-de-um-nomade-digital)
 
@@ -129,12 +140,12 @@ Progamming Fundamentals in C and Assembly by OYS
 [DevOps Floripa Meetup – Florianópolis, BR](https://www.meetup.com/DevOps-Florianopolis/)  
 [Serverless Brasil Community – Online](https://t.me/serverlessbrasil)  
 [Python Sul 2018 – Florianópolis, BR](https://pythonsul.org)  
-[Coding Dojo – Cape Town, ZA](https://zen.coderdojo.com/dojos/za/western-cape/cape-town-western-cape/cape-town)  
+[Kids Coding Dojo – Cape Town, ZA](https://zen.coderdojo.com/dojos/za/western-cape/cape-town-western-cape/cape-town)  
 [PyConZA 2019 Executive Committee – Cape Town, ZA](https://za.pycon.org/)
 
 # Open Source Contributions
 [Python Community Map](https://community.python.org.br/)  
-[How to GraphQL - Python Tutorial](https://www.howtographql.com/graphql-python/0-introduction/)  
+[How to GraphQL](https://www.howtographql.com/graphql-python/0-introduction/)  
 [Zappa](https://github.com/Miserlou/Zappa)  
 [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome)  
 [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads)  
