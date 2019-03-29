@@ -128,6 +128,7 @@ Progamming Fundamentals in C and Assembly by OYS
 [await a minute, let me async that for you - Mumbai Tech Meetup 2018](https://github.com/jonatasbaldin/asyncio-talk)  
 [Batteries Included - PyConZA 2018](https://www.youtube.com/watch?v=ZfgnizIG3Bg)  
 [Aventuras de um Nômade Digital - Python Brasil 14](https://speakerdeck.com/jonatasbaldin/aventuras-de-um-nomade-digital)
+[Mastering Meetups - Python Porto](https://speakerdeck.com/jonatasbaldin/mastering-meetups)
 
 # Volunteer
 [Code in the Dark Floripa - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
@@ -136,12 +137,12 @@ Progamming Fundamentals in C and Assembly by OYS
 [The Developers Conference (Python Track) - Florianópolis, BR](http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-python)  
 [Code in the Dark Floripa v2 - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
 [Django Girls - Caipyra 2017](https://djangogirls.org/ribeiraopreto/)  
-[Python Floripa Meetup – Florianópolis, BR](https://www.meetup.com/Floripa-Python-Meetup/)  
-[DevOps Floripa Meetup – Florianópolis, BR](https://www.meetup.com/DevOps-Florianopolis/)  
-[Serverless Brasil Community – Online](https://t.me/serverlessbrasil)  
-[Python Sul 2018 – Florianópolis, BR](https://pythonsul.org)  
-[Kids Coding Dojo – Cape Town, ZA](https://zen.coderdojo.com/dojos/za/western-cape/cape-town-western-cape/cape-town)  
-[PyConZA 2019 Executive Committee – Cape Town, ZA](https://za.pycon.org/)
+[Python Floripa Meetup - Florianópolis, BR](https://www.meetup.com/Floripa-Python-Meetup/)  
+[DevOps Floripa Meetup - Florianópolis, BR](https://www.meetup.com/DevOps-Florianopolis/)  
+[Serverless Brasil Community - Online](https://t.me/serverlessbrasil)  
+[Python Sul 2018 - Florianópolis, BR](https://pythonsul.org)  
+[Kids Coding Dojo - Cape Town, ZA](https://zen.coderdojo.com/dojos/za/western-cape/cape-town-western-cape/cape-town)  
+[PyConZA 2019 Executive Committee - Cape Town, ZA](https://za.pycon.org/)
 
 # Open Source Contributions
 [Python Community Map](https://community.python.org.br/)  
