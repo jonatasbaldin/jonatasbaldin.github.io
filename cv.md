@@ -3,8 +3,10 @@ layout: page
 title: Summary
 ---
 
-[Resume in PDF](https://drive.google.com/file/d/12dVe8uI_Xl3UDqy-XszqzV5icf_pCS58/view?usp=sharing)  
-[Job Positions](#job-positions)  
+### **[TL;DR (a short PDF version)](https://drive.google.com/file/d/1lWfiZc4qfM4Hk5lXRu6MZjfDdSZ1Sf3a/view?usp=sharing)**  
+
+[Freelancing](#freelancing)  
+[Full Time Job Positions](#job-positions)  
 [Education](#education)  
 [Courses](#courses)  
 [Talks](#talks)  
@@ -14,9 +16,32 @@ title: Summary
 
 ---
 
-# Job Positions
+# Freelancing
+
+## Software Engineer @ Nomanini
+_April/2019 – Present_
+
+Built a GraphQL service with Golang and gqlgen, implemented Gitlab repositories and CI/CD pipelines using Kubernetes for their micro services architecture.
+
+---
+
+## Infrastructure Engineer @ Digsconnect
+_March/2019_
+
+Moved a Django application and its database from a VM to Heroku, implemented CI/CD pipelines using Gitlab, refactor the entire code base to be more compliant with PEP8, developed a Heroku notification bot using Serverless technologies and implemented best coding practices across the organizations (versioning, review process, access control etc).
+
+---
+
+## Software Engineer @ Flickswitch
+_Feb/2019 – March/2019_ 
+
+Developed integrations between Flickswitch's platform with mobile cellphone APIs and payment services APIs using Python and Django, focusing on code quality and extensive suite of tests.
+
+---
+
 ## Blogger @ PSF
 _Sep/2018 – Present_  
+
 Writing about Python technology and its community at the Python Software Foundation blog.  
 
 ---
@@ -41,6 +66,8 @@ _Jan/2018 – May/2018_
 Worked remotely with a distributed team developing a micro service backend and managing infrastructure for a KYC project. The biggest challenge was security, since we were manipulating sensitive information. Technologies used were Python, NodeJS, Docker Swarm, BDD and GraphQL.
 
 ---
+
+# Job Positions
 
 ## Backend Developer @ Cheesecake Labs
 _Sep/2016 – Jan/2018_
@@ -142,11 +169,14 @@ Progamming Fundamentals in C and Assembly by OYS
 [Serverless Brasil Community - Online](https://t.me/serverlessbrasil)  
 [Python Sul 2018 - Florianópolis, BR](https://pythonsul.org)  
 [Kids Coding Dojo - Cape Town, ZA](https://zen.coderdojo.com/dojos/za/western-cape/cape-town-western-cape/cape-town)  
-[PyConZA 2019 Executive Committee - Cape Town, ZA](https://za.pycon.org/)
+[PyConZA 2019 Executive Committee - Cape Town, ZA](https://za.pycon.org/)  
+[Meetup of Meetups – Cape Town, ZA](https://www.meetup.com/Cape-Town-DevOps/events/261068866/)
 
 # Open Source Contributions
 [Python Community Map](https://community.python.org.br/)  
 [How to GraphQL](https://www.howtographql.com/graphql-python/0-introduction/)  
+[Exchange Rates GraphQL](https://github.com/jonatasbaldin/exchangeratesgraphql)  
+[CFP Land Telegram Bot](https://github.com/jonatasbaldin/cfpland-telegram-bot)  
 [Zappa](https://github.com/Miserlou/Zappa)  
 [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome)  
 [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads)  
