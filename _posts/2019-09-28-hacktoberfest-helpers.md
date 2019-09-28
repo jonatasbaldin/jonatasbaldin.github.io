@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finding Issues for Hacktoberfest"
-date: 2019-09-28 10:00:00
+date: 2019-09-28 5:00:00
 description: "Hacktoberfest 2019 is almost there, who's excited? 🎉🎊🥳 It's time to give back to the open source community, win a sick t-shirt, learn a lot of techs and make even more friends ❤️"
 image: "/img/hacktoberfest2019logo.png"
 ---
