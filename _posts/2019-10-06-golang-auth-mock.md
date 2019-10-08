@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mocking Golang with Interfaces In Real Life"
-date: 2019-10-06 10:00:00
+date: 2019-10-08 5:00:00
 description: "Learn how to do mock testing with Golang and Interfaces with a real life example using one of Go's Spotify clients."
 image: "/img/test_tube.png"
 ---
