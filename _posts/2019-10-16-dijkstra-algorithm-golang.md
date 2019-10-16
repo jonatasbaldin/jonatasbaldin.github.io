@@ -247,6 +247,8 @@ Distance from a to f = 17
 
 I'm so happy 😌
 
+@edit: The code above is the version 1. Due community contributions (thanks!), it improved! Get the latest version [here](https://github.com/jonatasbaldin/grokking-algorithms-golang/tree/master/ch7).
+
 ---
 
 The cover image used is from the book Grokking Algorithms. All rights reserved to Manning Publications.
