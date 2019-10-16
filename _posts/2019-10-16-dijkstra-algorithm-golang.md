@@ -14,6 +14,8 @@ Chapter 7 is all about the famous Dijkstra Algorithm: finding the shortest path 
 
 I won't go in much detail explaining the theory behind it, other resources do a better job I'd be capable of. Start with this [quick video](https://www.youtube.com/watch?v=_lHSawdgXpI), take a look at [Brilliant's](https://brilliant.org/wiki/dijkstras-short-path-finder/) article and, of course, read the already mentioned book if you can.
 
+It probably can be improved, as everything can. I think this is a nice balance between "working" and "readable". If you have any nice tips to contribute, please leave it in the comments ✨
+
 Well, here it is, the Dijkstra Algorithm in Go:
 
 ```go
