@@ -198,5 +198,5 @@ PyCon Colombia 2018 - Medellín, CO
 Python Sul 2018 - Florianópolis, BR  
 Mumbai Tech Meetup - Mumbai, IN  
 [PyConZA 2018 - Johannesburg, ZA](http://pyfound.blogspot.com/2018/12/pyconza-2018-beautiful-community-in.html)  
-Python Brasil 14 - Natal, BR
+[Python Brasil 14 - Natal, BR](https://pyfound.blogspot.com/2019/02/python-brasil-people-technology.html)  
 DevOpsDays Cape Town – Cape Town, ZA
