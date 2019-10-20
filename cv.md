@@ -3,7 +3,7 @@ layout: page
 title: Summary
 ---
 
-### **[TL;DR (a short PDF version)](https://drive.google.com/file/d/1lWfiZc4qfM4Hk5lXRu6MZjfDdSZ1Sf3a/view?usp=sharing)**  
+### **[TL;DR (a short PDF version)](https://drive.google.com/file/d/15xFggQASE9ZFfAIPOqsOgc1igfe5O70Q/view?usp=sharing)**  
 
 [Freelancing](#freelancing)  
 [Full Time Job Positions](#job-positions)  
