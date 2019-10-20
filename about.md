@@ -5,9 +5,9 @@ title: Also known as jojo :)
 
 Hi there! I'm **Jonatas Baldin** and this is my personal space to share what I'm doing and what I want to do.
 
-I'm 24 years old (now I need to remember updating this every year...). I was born in Brazil and I'm currently living in Cape Town, South Africa. I chose to write primarily in English because I can reach a lot more than Brazilian Portuguese.
+I'm 25 years old (now I need to remember updating this every year...). I was born in Brazil and I'm currently living there, after a period of digital nomadism and living in Cape Town.
 
-I'm a software developer, infrastructure administrator, coffee & wine lover and currently bringing life back to my garden.
+I'm a software and infrastructure engineer, focused in Python and Golang. I'm also into coffee, wine, running and plants 🌱
 
 Besides working, I also **love** giving talks, attending to conferences and even help organizing them. You can take look at the communities sections in my [CV]({{ site.url }}/cv.html ).
 

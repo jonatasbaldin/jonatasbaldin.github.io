@@ -18,10 +18,10 @@ title: Summary
 
 # Freelancing
 
-## Software Engineer @ Nomanini
-_April/2019 – Present_
+## Software|Infrastructure Engineer @ Nomanini
+_April/2019 – September/2019_
 
-Built a GraphQL service with Golang and gqlgen, implemented Gitlab repositories and CI/CD pipelines using Kubernetes for their micro services architecture.
+Built a GraphQL service with Golang and gqlgen, implemented Gitlab repositories and CI/CD pipelines and managed their whole Kubernetes infrastructure. Also started an internal weekly Coding Dojo, very fun!
 
 ---
 
@@ -128,7 +128,7 @@ _2009 – 2012_
 ---
 
 # Courses
-Web Development with Golang Prorgramming Language by Todd McLeod  
+Web Development with Golang Programming Language by Todd McLeod  
 Learn How To Code: Golang Programming Language by Todd McLeod  
 AWS Serverless APIs & Apps by Maximilian Schwarzmüller  
 Apache, Nginx and Varnish by Coruja de TI  
@@ -139,7 +139,7 @@ FortiGate UTM
 High Availability Clustering By OYS  
 Linux Hardening by OYS  
 Performance and Tunning Linux by Coruja de TI  
-Progamming Fundamentals in C and Assembly by OYS  
+Programming Fundamentals in C and Assembly by OYS  
 
 # Talks
 [Ansible: Infraestrutura como Código - FLISOL Cascavel 2016](https://speakerdeck.com/jonatasbaldin/ansible-infraestrutura-como-codigo)  
@@ -173,17 +173,7 @@ Progamming Fundamentals in C and Assembly by OYS
 [Meetup of Meetups – Cape Town, ZA](https://www.meetup.com/Cape-Town-DevOps/events/261068866/)
 
 # Open Source Contributions
-[Python Community Map](https://community.python.org.br/)  
-[How to GraphQL](https://www.howtographql.com/graphql-python/0-introduction/)  
-[Exchange Rates GraphQL](https://github.com/jonatasbaldin/exchangeratesgraphql)  
-[CFP Land Telegram Bot](https://github.com/jonatasbaldin/cfpland-telegram-bot)  
-[Zappa](https://github.com/Miserlou/Zappa)  
-[awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome)  
-[awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads)  
-[s3-environ](https://github.com/jonatasbaldin/s3-environ)  
-[resize4me](https://github.com/jonatasbaldin/resize4me)  
-[slydes](https://github.com/jonatasbaldin/slydes)  
-[vim-tips](https://github.com/jonatasbaldin/vim-tips)  
+Check out my [Github]({{ site.author.github }}) page 💃
 
 # Conferences Attended
 Latinoware 2012 - Foz do Iguaçu, BR  
@@ -209,3 +199,4 @@ Python Sul 2018 - Florianópolis, BR
 Mumbai Tech Meetup - Mumbai, IN  
 [PyConZA 2018 - Johannesburg, ZA](http://pyfound.blogspot.com/2018/12/pyconza-2018-beautiful-community-in.html)  
 Python Brasil 14 - Natal, BR
+DevOpsDays Cape Town – Cape Town, ZA
