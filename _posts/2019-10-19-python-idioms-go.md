@@ -360,4 +360,6 @@ Besides frustrations here and there, I love Go. Statically typed, easy coroutine
 
 Both languages have their place in my tool belt and my heart ❤️
 
+_Thanks to the people from [Twitter](https://twitter.com/jonatasbaldin/status/1185661547789594625) and [DEV](https://dev.to/jonatasbaldin/what-s-your-favorite-python-idiom-1f7p) to share their favorite idioms 💙_
+
 Share your favorite idioms in the comments below and let's try to find its Go-like implementation ✨
