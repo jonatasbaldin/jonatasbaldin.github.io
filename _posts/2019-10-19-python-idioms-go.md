@@ -144,16 +144,17 @@ dna2["dna"] = true
 
 intersection := make(map[string]bool)
 for d1, _ := range dna1 {
-    for d2, _ := range dna2 {
-        if d1 == d2 {
-            intersection[d1] = true
-        }
+    _, exists := dna2[d1]
+    if exists {
+        intersection[d1] = true
     }
 }
 
 fmt.Println(intersection)
 // map[dna:true]
 ```
+
+_Thanks [Tamás](https://disqus.com/by/tamsgulcsi/) for the tip on using a key check on `dna2`!_
 
 ---
 
