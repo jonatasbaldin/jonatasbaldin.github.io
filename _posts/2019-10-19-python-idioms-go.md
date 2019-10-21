@@ -82,7 +82,7 @@ Unfortunately, in Go, more work is needed:
 numbers := []int{1, 2, 3, 4}
 var double []int
 
-for number := range numbers {
+for _, number := range numbers {
     double = append(double, number*2)
 }
 
