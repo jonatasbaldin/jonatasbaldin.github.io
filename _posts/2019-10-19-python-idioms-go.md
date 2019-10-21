@@ -87,7 +87,7 @@ for _, number := range numbers {
 }
 
 fmt.Println(double)
-// [0 2 4 6]
+// [2 4 6 8]
 ```
 
 ---
