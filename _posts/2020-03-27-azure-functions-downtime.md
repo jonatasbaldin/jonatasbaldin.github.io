@@ -136,9 +136,9 @@ The Function is being _hot swapped_, and traffic is hitting both Functions until
 Let's use Slots everywhere, right? Well, if you can afford, yes. The basic (called Consumer) Azure Functions plan has a limit of _one_ Slot, leaving you with no other Slot to do the swap. Meanwhile, you can have multiple Slots with the Premium plan. The only issue is the price: Functions in the Premium plan are charged by _hour_ instead of execution. Check it out:
 
 ![](/img/azure_functions_price_consumer.png)
-_Azure Functions Consumer Tier_
+<center>_Azure Functions Consumer Tier_</center>
 
 ![](/img/azure_functions_price_premium.png)
-_Azure Functions Premium Tier_
+<center>_Azure Functions Premium Tier_</center>
 
 So, yeah, as far as I know, Azure Functions with zero downtime is only for the ones who can afford.
