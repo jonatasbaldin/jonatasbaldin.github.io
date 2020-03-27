@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Avoiding Azure Functions Downtime with Slots"
-date: 2019-03-27 05:00:00
+date: 2020-03-27 05:00:00
 description: "What happens when you upload a new version of your Azure Function?"
 image: ""
 ---
