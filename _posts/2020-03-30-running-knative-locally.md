@@ -11,7 +11,7 @@ image: /img/knative_logo.png
 One problem with Knative is running it locally. Kubernetes is quite heavy, running yet another platform on top of it is a killer. Today we will take a look at some different approaches to test Knative without burning down your computer.
 
 Some notes before proceeding:
-- I'll be focusing on the Eventing part of Knative. Serving will _probably_ work just fine – you just need more resources
+- I'll be focusing on the Serving part of Knative. Eventing will _probably_ work just fine – you just need more resources
 - I choose Kourier for the Knative network layer – it's simpler and lighter than Istio
 - Ubuntu was used for everything, minus the Docker on Mac part ;)
 - You can find the full instructions to install Knative [here](ihttps://knative.dev/docs/install/any-kubernetes-cluster/)
@@ -276,6 +276,81 @@ Hello Go Sample v1!
 Awesome, right!?
 
 > PS: I didn't dive too much into this solution. The `localhost` LoadBalancer might have its quirks that I haven't encountered. I'll keep this article updated if I see anything suspicious.
+
+# minikube
+The Minikube section is a contribution by [Jonathan Beri](https://twitter.com/beriberikix), you can find his original gist [here](https://gist.github.com/beriberikix/a827ec31f62705f13054895fa8cda0ad). Thanks a lot!
+
+Minikube is perfectly described in their [GitHub repository](https://github.com/kubernetes/minikube):
+> minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. minikube's primary goals are to be the best tool for local Kubernetes application development and to support all Kubernetes features that fit.
+
+```bash
+# Get a Minikube VM up and running, with enough resources
+minikube start --cpus=4 --memory=4096 --addons=ingress
+
+# Install the Knative Serving
+export KNATIVE_VERSION="0.13.0"
+kubectl apply --filename "https://github.com/knative/serving/releases/download/v$KNATIVE_VERSION/serving-crds.yaml"
+kubectl apply --filename "https://github.com/knative/serving/releases/download/v$KNATIVE_VERSION/serving-core.yaml"
+
+# Configure the magic xip.io DNS name
+kubectl apply --filename "https://github.com/knative/serving/releases/download/v$KNATIVE_VERSION/serving-default-domain.yaml"
+
+# Install and configure Kourier
+kubectl apply --filename https://raw.githubusercontent.com/knative/serving/v$KNATIVE_VERSION/third_party/kourier-latest/kourier.yaml
+kubectl patch configmap/config-network --namespace knative-serving --type merge --patch '{"data":{"ingress.class":"kourier.ingress.networking.knative.dev"}}'
+```
+
+Alright, the installation is done! Make sure all the Pods are running (if not, wait a bit):
+```bash
+kubectl get pod -A
+```
+
+Open a new terminal console and start the Minikube LoadBalancer:
+```
+minikube tunnel
+
+Status:
+        machine: minikube
+        pid: 13391
+        route: 10.96.0.0/12 -> 192.168.64.6
+        minikube: Running
+        services: [kourier]
+    errors: 
+                minikube: no errors
+                router: no errors
+                loadbalancer emulator: no errors
+```
+
+After that, get the public IP from Kourier:
+```bash
+kubectl get svc kourier -n kourier-system
+
+                                        # yes!
+NAME      TYPE           CLUSTER-IP     EXTERNAL-IP    PORT(S)                      AGE
+kourier   LoadBalancer   10.107.29.82   10.107.29.82   80:30354/TCP,443:30261/TCP   2m47s
+```
+
+Let's deploy the Knative Service sample:
+```bash
+kubectl apply -f https://gist.githubusercontent.com/jonatasbaldin/bc04de2e376be23f75bb5815041fdd61/raw/d2345ac9aa01d0f3c771e9b3d4a1421dd766e0f9/service.yaml
+
+service.serving.knative.dev/helloworld-go created
+```
+
+Make sure it is running and find its "public" address:
+```bash
+kubectl get ksvc
+
+NAME                URL                                                    LATESTCREATED             LATESTREADY               READY   REASON
+helloworld-go       http://helloworld-go.default.10.107.29.82.xip.io       helloworld-go-xqlxs       helloworld-go-xqlxs       True    
+```
+
+Finally:
+```bash
+curl http://helloworld-go.default.10.107.29.82.xip.io
+
+Hello Go Sample v1!
+```
 
 ## ✨ Bonus: inlets-operator ✨
 Imagine if you could easily expose all these solutions to the public Internet? Well, [inlets-operator](https://blog.alexellis.io/ingress-for-your-local-kubernetes-cluster/) does just that. I'll leave you with [this article](https://blog.alexellis.io/ingress-for-your-local-kubernetes-cluster/) for your next adventure.
