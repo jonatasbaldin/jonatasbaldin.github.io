@@ -133,7 +133,7 @@ This is my code v1.0.2! - 17:10:34
 
 The Function is being _hot swapped_, and traffic is hitting both Functions until the swap is over. DONE! You've migrated your function without any downtime ✨
 
-Let's use Slots everywhere, right? Well, if you can afford, yes. The basic (called Consumer) Azure Functions plan has a limit of _one_ Slot, leaving you with no other Slot to do the swap. Meanwhile, you can have multiple Slots with the Premium plan. The only issue is the price: Functions in the Premium plan are charged by _hour_ instead of execution. Check it out:
+Let's use Slots everywhere, right? Well, if you can afford, yes. As for now, Slots are only available for the Standard and Premium tiers. The only issue is the price: Functions in the Premium plan are charged by _hour_ instead of execution. Check it out:
 
 ![](/img/azure_functions_price_consumer.png)
 <center>_Azure Functions Consumer Tier_</center>
@@ -142,3 +142,5 @@ Let's use Slots everywhere, right? Well, if you can afford, yes. The basic (call
 <center>_Azure Functions Premium Tier_</center>
 
 So, yeah, as far as I know, Azure Functions with zero downtime is only for the ones who can afford.
+
+@edit: Change to inform that Slots are only available in Standard and Premium tiers.
