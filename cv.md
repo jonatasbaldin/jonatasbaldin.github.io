@@ -5,69 +5,72 @@ title: Summary
 
 ### **[TL;DR (a short PDF version)](https://drive.google.com/file/d/1BIsLdDBIJAhBDGVfgT_Z-zGzRKEXpFtF)**  
 
-[Freelancing](#freelancing)  
-[Full Time Job Positions](#job-positions)  
+[Work](#work)  
 [Education](#education)  
 [Courses](#courses)  
 [Talks](#talks)  
 [Volunteer](#volunteer)  
 [Open Source Contributions](#open-source-contributions)  
-[Conferences Attended](#conferences-attended)  
 
 ---
 
-# Freelancing
+# Work
+
+## Cloud Native Engineer @ Container Solutions
+_Jan/2020 – Present_
+
+Designing and implementing infrastructure using cloud native technologies and multiple cloud providers. Kubernetes is my jam.
+
+---
 
 ## Software|Infrastructure Engineer @ Nomanini
-_April/2019 – September/2019_
+_April/2019 – September/2019 – Freelance_
 
 Built a GraphQL service with Golang and gqlgen, implemented Gitlab repositories and CI/CD pipelines and managed their whole Kubernetes infrastructure. Also started an internal weekly Coding Dojo, very fun!
 
 ---
 
 ## Infrastructure Engineer @ Digsconnect
-_March/2019_
+_March/2019 – Freelance_
 
 Moved a Django application and its database from a VM to Heroku, implemented CI/CD pipelines using Gitlab, refactor the entire code base to be more compliant with PEP8, developed a Heroku notification bot using Serverless technologies and implemented best coding practices across the organizations (versioning, review process, access control etc).
 
 ---
 
 ## Software Engineer @ Flickswitch
-_Feb/2019 – March/2019_ 
+_Feb/2019 – March/2019 – Freelance_ 
 
 Developed integrations between Flickswitch's platform with mobile cellphone APIs and payment services APIs using Python and Django, focusing on code quality and extensive suite of tests.
 
 ---
 
 ## Blogger @ PSF
-_Sep/2018 – Present_  
+_Sep/2018 – Present – Freelance_  
 
 Writing about Python technology and its community at the Python Software Foundation blog.  
 
 ---
 
 ## Software Engineer @ Stack Builders Inc.
-_May/2018 – Nov/2018_
+_May/2018 – Nov/2018 – Freelance_
 
 Worked as a software developer for the Tech Education team at a Cloud communications platform, involved with dynamic code generation, improving their documentation, investigating and fixing issues in their open source libraries and building demos to showcase their products.
 
 ---
 
 ## Dev Coach / Community Guardian @ Make by OfferZen
-_Aug/2018 - Dec/2018_
+_Aug/2018 - Dec/2018 – Freelance_
 
 At Make we were doing more than guiding people through new and cool technologies, we were enhancing the human side of developers. By creating a respectful, collaborative and fun space, people were able to thrive in their learning experience while connecting with an exciting community of passionate devs.
 
 ---
 
 ## Software Engineer @ Maecenas Fine Art
-_Jan/2018 – May/2018_
+_Jan/2018 – May/2018 – Freelance_
 
 Worked remotely with a distributed team developing a micro service backend and managing infrastructure for a KYC project. The biggest challenge was security, since we were manipulating sensitive information. Technologies used were Python, NodeJS, Docker Swarm, BDD and GraphQL.
 
 ---
-
-# Job Positions
 
 ## Backend Developer @ Cheesecake Labs
 _Sep/2016 – Jan/2018_
@@ -127,7 +130,8 @@ _2009 – 2012_
 
 ---
 
-# Courses
+# Courses & Certifications
+Kubernetes CKA  
 Web Development with Golang Programming Language by Todd McLeod  
 Learn How To Code: Golang Programming Language by Todd McLeod  
 AWS Serverless APIs & Apps by Maximilian Schwarzmüller  
@@ -142,20 +146,7 @@ Performance and Tunning Linux by Coruja de TI
 Programming Fundamentals in C and Assembly by OYS  
 
 # Talks
-[Ansible: Infraestrutura como Código - FLISOL Cascavel 2016](https://speakerdeck.com/jonatasbaldin/ansible-infraestrutura-como-codigo)  
-[Ansible: Infraestrutura como Código - FISL 17](https://www.youtube.com/watch?v=i79uTvUiOyg)  
-[API Design: Think Fist, Code Later - Pyzza Floripa](https://speakerdeck.com/jonatasbaldin/ansible-infraestrutura-como-codigo)  
-[Em terra de Serverless, quem usa Zappa é rei! - Caipyra 2017](https://speakerdeck.com/jonatasbaldin/in-the-land-of-serverless-who-uses-zappa-is-king)  
-[Django Channeled - Python Sul 2017](https://speakerdeck.com/jonatasbaldin/django-channeled)  
-[DRF vs Graphene - Python Floripa 2017](https://www.youtube.com/watch?v=WXRmRcIVzqE)  
-[Serverless & DevOps - DevOps Floripa 2017](https://speakerdeck.com/jonatasbaldin/serverless-and-devops)  
-[In the land of Serverless who uses Zappa is king! - PyConZA 2017](https://www.youtube.com/watch?v=1aggqfPzhNY)  
-[Django Channeled - PyConAR 2017](https://speakerdeck.com/jonatasbaldin/pyconar-2017-django-channeled)  
-[Serverless for Pythonistas - PyCon Colombia 2018](https://speakerdeck.com/jonatasbaldin/pycon-colombia-2018-serverless-for-pythonistas)  
-[await a minute, let me async that for you - Mumbai Tech Meetup 2018](https://github.com/jonatasbaldin/asyncio-talk)  
-[Batteries Included - PyConZA 2018](https://www.youtube.com/watch?v=ZfgnizIG3Bg)  
-[Aventuras de um Nômade Digital - Python Brasil 14](https://speakerdeck.com/jonatasbaldin/aventuras-de-um-nomade-digital)
-[Mastering Meetups - Python Porto](https://speakerdeck.com/jonatasbaldin/mastering-meetups)
+You can see all my slide decks [here](https://speakerdeck.com/jonatasbaldin) and all my recorded talks [here](https://www.youtube.com/playlist?list=PLKcvnYa-SYdwqj1KBj89h73VXpnE6pSH5).
 
 # Volunteer
 [Code in the Dark Floripa - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
@@ -174,29 +165,3 @@ Programming Fundamentals in C and Assembly by OYS
 
 # Open Source Contributions
 Check out my [Github]({{ site.author.github }}) page 💃
-
-# Conferences Attended
-Latinoware 2012 - Foz do Iguaçu, BR  
-Latinoware 2014 - Foz do Iguaçu, BR  
-[Startup Weekend Agro 2016 - Cascavel, BR](http://deployeveryday.com/2016/03/29/startup-weekend-agro-cascavel-2016.html)  
-[FLISOL 2016 - Cascavel, BR](http://deployeveryday.com/2016/04/19/flisol2016-cascavel.html)  
-[SC Dev Summit - Joinville, BR](http://deployeveryday.com/2016/05/29/sc-dev-summit-16.html)  
-Code in the Dark Floripa - Florianópolis, BR  
-Python Brasil 12 - Florianópolis, BR  
-GopherCon Brasil 2016 - Florianópolis, BR  
-Pyzza Floripa - Florinaópolis, BR  
-The Developers Conference - Florianópolis, BR  
-Python Sudeste 2017 - Rio de Janeiro, BR  
-Code in the Dark Floripa v2 - Florianópolis, BR  
-UXConfBR 2017 - Porto Alegre, BR  
-[Caipyra 2017 - Ribeirão Preto, BR](http://deployeveryday.com/2017/06/29/caipyra-2017.html)  
-BrazilJS 2017 - Porto Alegre, BR  
-Python Sul 2017 - Porto Alegre, BR  
-PyConZA 2017 - Cape Town, ZA  
-PyConAR 2017 - Córdoba, AR  
-PyCon Colombia 2018 - Medellín, CO  
-Python Sul 2018 - Florianópolis, BR  
-Mumbai Tech Meetup - Mumbai, IN  
-[PyConZA 2018 - Johannesburg, ZA](http://pyfound.blogspot.com/2018/12/pyconza-2018-beautiful-community-in.html)  
-[Python Brasil 14 - Natal, BR](https://pyfound.blogspot.com/2019/02/python-brasil-people-technology.html)  
-DevOpsDays Cape Town – Cape Town, ZA
