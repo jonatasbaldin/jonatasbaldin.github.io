@@ -3,7 +3,7 @@ layout: page
 title:
 ---
 
-### **[TL;DR (a short PDF version)](https://drive.google.com/file/d/11FM3XPlFZflwH1TnoTuX2ySoDpqivSPW/view?usp=sharing)**  
+## **[TL;DR (a short PDF version)](https://drive.google.com/file/d/11FM3XPlFZflwH1TnoTuX2ySoDpqivSPW/view?usp=sharing)**  
 [Recent Talks](#recent-talks)  
 [Open Source](#open-source)  
 [Volunteer](#volunteer)  
