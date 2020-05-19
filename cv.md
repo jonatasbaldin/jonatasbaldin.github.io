@@ -1,16 +1,51 @@
 ---
 layout: page
-title: Summary
+title:
 ---
 
-### **[TL;DR (a short PDF version)](https://drive.google.com/file/d/1BIsLdDBIJAhBDGVfgT_Z-zGzRKEXpFtF)**  
-
+### **[TL;DR (a short PDF version)](https://drive.google.com/file/d/11FM3XPlFZflwH1TnoTuX2ySoDpqivSPW/view?usp=sharing)**  
+[Recent Talks](#recent-talks)  
+[Open Source](#open-source)  
+[Volunteer](#volunteer)  
 [Work](#work)  
 [Education](#education)  
 [Courses](#courses)  
-[Talks](#talks)  
-[Volunteer](#volunteer)  
-[Open Source Contributions](#open-source-contributions)  
+
+---
+
+# Recent Talks
+
+[The State of Open Source Serverless – Software Circus](https://www.youtube.com/watch?v=mSuUCZXUveE&list=PLKcvnYa-SYdwqj1KBj89h73VXpnE6pSH5&index=7&t=0s)  
+[Learning Knative with AWS Lambda – ServerlessDays Amsterdam](https://www.youtube.com/watch?v=C1VXdrz3LKU&list=PLKcvnYa-SYdwqj1KBj89h73VXpnE6pSH5&index=8&t=1614s)  
+[Batteries Included - PyConZA 2018](https://www.youtube.com/watch?v=ZfgnizIG3Bg)  
+
+See more [presentations](https://speakerdeck.com/jonatasbaldin) and [videos](https://www.youtube.com/playlist?list=PLKcvnYa-SYdwqj1KBj89h73VXpnE6pSH5) ✨
+
+---
+
+# Open Source
+[How To GraphQL](https://www.howtographql.com/graphql-python/0-introduction/)  
+[Python Community Map](https://github.com/jonatasbaldin/python-community-map)  
+[Konnek](https://github.com/konnek)
+
+Check more at my [Github]({{ site.author.github }}) page 💃
+
+---
+
+# Volunteer
+[Code in the Dark Floripa - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
+[Python Brasil 12 - Florianópolis, BR](http://2016.pythonbrasil.org.br/)  
+[Pyzza Floripa - Florianópolis, BR](https://www.facebook.com/events/620666271458869)  
+[The Developers Conference (Python Track) - Florianópolis, BR](http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-python)  
+[Code in the Dark Floripa v2 - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
+[Django Girls - Caipyra 2017](https://djangogirls.org/ribeiraopreto/)  
+[Python Floripa Meetup - Florianópolis, BR](https://www.meetup.com/Floripa-Python-Meetup/)  
+[DevOps Floripa Meetup - Florianópolis, BR](https://www.meetup.com/DevOps-Florianopolis/)  
+[Serverless Brasil Community - Online](https://t.me/serverlessbrasil)  
+[Python Sul 2018 - Florianópolis, BR](https://pythonsul.org)  
+[Kids Coding Dojo - Cape Town, ZA](https://zen.coderdojo.com/dojos/za/western-cape/cape-town-western-cape/cape-town)  
+[PyConZA 2019 Executive Committee - Cape Town, ZA](https://za.pycon.org/)  
+[Meetup of Meetups – Cape Town, ZA](https://www.meetup.com/Cape-Town-DevOps/events/261068866/)
 
 ---
 
@@ -132,6 +167,7 @@ _2009 – 2012_
 
 # Courses & Certifications
 Kubernetes CKA  
+Kubernetes 
 Web Development with Golang Programming Language by Todd McLeod  
 Learn How To Code: Golang Programming Language by Todd McLeod  
 AWS Serverless APIs & Apps by Maximilian Schwarzmüller  
@@ -144,24 +180,3 @@ High Availability Clustering By OYS
 Linux Hardening by OYS  
 Performance and Tunning Linux by Coruja de TI  
 Programming Fundamentals in C and Assembly by OYS  
-
-# Talks
-You can see all my slide decks [here](https://speakerdeck.com/jonatasbaldin) and all my recorded talks [here](https://www.youtube.com/playlist?list=PLKcvnYa-SYdwqj1KBj89h73VXpnE6pSH5).
-
-# Volunteer
-[Code in the Dark Floripa - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
-[Python Brasil 12 - Florianópolis, BR](http://2016.pythonbrasil.org.br/)  
-[Pyzza Floripa - Florianópolis, BR](https://www.facebook.com/events/620666271458869)  
-[The Developers Conference (Python Track) - Florianópolis, BR](http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-python)  
-[Code in the Dark Floripa v2 - Florianópolis, BR](http://floripa.codeinthedark.com.br/)  
-[Django Girls - Caipyra 2017](https://djangogirls.org/ribeiraopreto/)  
-[Python Floripa Meetup - Florianópolis, BR](https://www.meetup.com/Floripa-Python-Meetup/)  
-[DevOps Floripa Meetup - Florianópolis, BR](https://www.meetup.com/DevOps-Florianopolis/)  
-[Serverless Brasil Community - Online](https://t.me/serverlessbrasil)  
-[Python Sul 2018 - Florianópolis, BR](https://pythonsul.org)  
-[Kids Coding Dojo - Cape Town, ZA](https://zen.coderdojo.com/dojos/za/western-cape/cape-town-western-cape/cape-town)  
-[PyConZA 2019 Executive Committee - Cape Town, ZA](https://za.pycon.org/)  
-[Meetup of Meetups – Cape Town, ZA](https://www.meetup.com/Cape-Town-DevOps/events/261068866/)
-
-# Open Source Contributions
-Check out my [Github]({{ site.author.github }}) page 💃
