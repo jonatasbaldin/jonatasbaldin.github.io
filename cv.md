@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Summary
 ---
 
 ## **[TL;DR (a short PDF version)](https://drive.google.com/file/d/11FM3XPlFZflwH1TnoTuX2ySoDpqivSPW/view?usp=sharing)**  
